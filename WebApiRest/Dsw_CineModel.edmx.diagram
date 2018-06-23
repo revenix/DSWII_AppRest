@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7a0418680eb74d6a8fbcd617b3071c12" Name="Diagram1">
+        <EntityTypeShape EntityType="dsw_cineModel.tb_clientes" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dsw_cineModel.tb_funciones" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="dsw_cineModel.tb_locales" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dsw_cineModel.tb_peliculas" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dsw_cineModel.tb_reservas" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dsw_cineModel.database_firewall_rules" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="dsw_cineModel.FK__tb_reservas__dni__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="dsw_cineModel.FK__tb_funcio__id_lo__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="dsw_cineModel.FK__tb_funcio__id_pe__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="dsw_cineModel.FK__tb_reserv__id_fu__5070F446" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
