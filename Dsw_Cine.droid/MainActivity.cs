@@ -63,15 +63,15 @@ namespace Dsw_Cine.droid
             tabs.SetupWithViewPager(viewPager);
 
             //Boton Flotante
-            FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab); 
+            //FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab); 
 
-            fab.Click += (o, e) =>
-            {
-                View anchor = o as View;
+          //  fab.Click += (o, e) =>
+           // {
+           //     View anchor = o as View;
 
-                Snackbar.Make(anchor, "QR de Participante", Snackbar.LengthLong)
-                        .SetAction("SCAN", v =>
-                       {
+             //   Snackbar.Make(anchor, "QR de Participante", Snackbar.LengthLong)
+                //        .SetAction("SCAN", v =>
+                 //      {
 
                             //Do something here
                             //lector de QR
@@ -99,10 +99,10 @@ namespace Dsw_Cine.droid
                                   Toast.MakeText(this, "Participante no encontrado", ToastLength.Long).Show();
                               }
                               //lector de QR
-                              */
-                       }).Show();
+                    //          */
+                    //   }).Show();
 
-            };
+           // };
             
             /*Boton Flotante*/
             
