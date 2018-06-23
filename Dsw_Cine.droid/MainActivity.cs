@@ -12,13 +12,14 @@ using Android.Support.Design.Widget;
 using Android.Support.V4.View;
 using Android.Support.V4.App;
 using System.Collections.Generic;
-using Java.Lang;
-using Android.Widget;
+using Java.Lang; 
 using Android.Content;
+using Android.Views;
+using Dsw_Cine.droid.Fragments;
 
 namespace Dsw_Cine.droid
 {
-    [Activity(Theme = "@style/Theme.DesignDemo" ,Label = "Dsw_Cine.droid", MainLauncher = true)]
+    [Activity(Theme = "@style/Theme.DesignDemo" ,Label = "CinePobrePolis", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
 
@@ -42,7 +43,7 @@ namespace Dsw_Cine.droid
 
             SupportActionBar ab = SupportActionBar;
             ab.SetHomeAsUpIndicator(Resource.Drawable.ic_menu);
-            ab.SetDisplayHomeAsUpEnabled(true);
+           //test no visible icon menu ab.SetDisplayHomeAsUpEnabled(true);
 
             mDrawerLayout = FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
 
@@ -57,73 +58,54 @@ namespace Dsw_Cine.droid
             ViewPager viewPager = FindViewById<ViewPager>(Resource.Id.viewpager);
 
             SetUpViewPager(viewPager);
-
-            tabs.SetupWithViewPager(viewPager); //MENU 
-            SupportToolbar toolBar = FindViewById<SupportToolbar>(Resource.Id.toolBar);
-            SetSupportActionBar(toolBar);
-
-            SupportActionBar ab = SupportActionBar;
-            ab.SetHomeAsUpIndicator(Resource.Drawable.ic_menu);
-            ab.SetDisplayHomeAsUpEnabled(true);
-
-            mDrawerLayout = FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
-
-            NavigationView navigationView = FindViewById<NavigationView>(Resource.Id.nav_view);
-            if (navigationView != null)
-            {
-                SetUpDrawerContent(navigationView);
-            }
-
-            TabLayout tabs = FindViewById<TabLayout>(Resource.Id.tabs);
-
-            ViewPager viewPager = FindViewById<ViewPager>(Resource.Id.viewpager);
-
-            SetUpViewPager(viewPager);
+             
 
             tabs.SetupWithViewPager(viewPager);
 
-            /*Boton Flotante
-            FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab); */
+            //Boton Flotante
+            FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab); 
 
             fab.Click += (o, e) =>
             {
                 View anchor = o as View;
 
                 Snackbar.Make(anchor, "QR de Participante", Snackbar.LengthLong)
-                        .SetAction("SCAN", async v =>
-                        {
+                        .SetAction("SCAN", v =>
+                       {
+
                             //Do something here
                             //lector de QR
-                            var scanner = new ZXing.Mobile.MobileBarcodeScanner();
-                            var result = await scanner.Scan();
+                            //  var scanner = new ZXing.Mobile.MobileBarcodeScanner();
+                            //  var result = await scanner.Scan();
+                            /*
+                              if (result != null)
+                              {
+                                  var dato = await controller.ParticipanteInfo(int.Parse(result.ToString()));
 
-                            if (result != null)
-                            {
-                                var dato = await controller.ParticipanteInfo(int.Parse(result.ToString()));
+                                  if (dato != null)
+                                  {
+                                      var activity2 = new Intent(this, typeof(InfoParticipanteActivity));
+                                      activity2.PutExtra("idparticipante", result.Text);
 
-                                if (dato != null)
-                                {
-                                    var activity2 = new Intent(this, typeof(InfoParticipanteActivity));
-                                    activity2.PutExtra("idparticipante", result.Text);
-
-                                    StartActivity(activity2);
-                                }
-                                else
-                                {
-                                    Toast.MakeText(this, "Participante no encontrado", ToastLength.Long).Show();
-                                }
-                            }
-                            else
-                            {
-                                Toast.MakeText(this, "Participante no encontrado", ToastLength.Long).Show();
-                            }
-                            //lector de QR
-
-                        })
-                        .Show();
+                                      StartActivity(activity2);
+                                  }
+                                  else
+                                  {
+                                      Toast.MakeText(this, "Participante no encontrado", ToastLength.Long).Show();
+                                  }
+                              }
+                              else
+                              {
+                                  Toast.MakeText(this, "Participante no encontrado", ToastLength.Long).Show();
+                              }
+                              //lector de QR
+                              */
+                       }); //; para que no sea visible
+                       // .Show();
             };
+            
             /*Boton Flotante*/
-
+            
             //MENU
         }
 
@@ -133,9 +115,9 @@ namespace Dsw_Cine.droid
 
             //tabs agregar tabs 
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
-            adapter.AddFragment(new Fragment1(), "Eventos");
-            adapter.AddFragment(new Fragment2(), "Participantes");
-            adapter.AddFragment(new Fragment3(), "Modalidades");
+            adapter.AddFragment(new Fragment1(), "Registro Cliente");
+            adapter.AddFragment(new Fragment2(), "Actualizar Cliente");
+            adapter.AddFragment(new Fragment3(), "Consultar Reserva");
 
             viewPager.Adapter = adapter;
         }
@@ -144,8 +126,8 @@ namespace Dsw_Cine.droid
         {
 
 
-            var txtusuario = FindViewById<TextView>(Resource.Id.txtUsuario);
-            txtusuario.Text = nombre_usuario;
+           // var txtusuario = FindViewById<TextView>(Resource.Id.txtUsuario);
+            //txtusuario.Text = nombre_usuario;
 
             switch (item.ItemId)
             {
@@ -167,7 +149,7 @@ namespace Dsw_Cine.droid
                 //menu option
                 switch (e.MenuItem.ItemId)
                 {
-                    case Resource.Id.nav_equipo:
+                  /*  case Resource.Id.nav_equipo:
                         var inten = new Intent(this, typeof(infoEquipo));
                         inten.PutExtra("idparticipante", id_participante);
                         StartActivity(inten);
@@ -187,7 +169,7 @@ namespace Dsw_Cine.droid
                         loginPageIntent.AddFlags(ActivityFlags.ClearTop);
                         StartActivity(loginPageIntent);
 
-                        break;
+                        break;*/
                 }
                 //menu option
 

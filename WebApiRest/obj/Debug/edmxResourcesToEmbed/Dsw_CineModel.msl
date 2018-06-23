@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dsw_cineModelStoreContainer" CdmEntityContainer="dsw_cineEntities">
+    <EntitySetMapping Name="tb_clientes">
+      <EntityTypeMapping TypeName="dsw_cineModel.tb_clientes">
+        <MappingFragment StoreEntitySet="tb_clientes">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
+          <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
+          <ScalarProperty Name="correo_cliente" ColumnName="correo_cliente" />
+          <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="dir_cliente" ColumnName="dir_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_funciones">
+      <EntityTypeMapping TypeName="dsw_cineModel.tb_funciones">
+        <MappingFragment StoreEntitySet="tb_funciones">
+          <ScalarProperty Name="id_funcion" ColumnName="id_funcion" />
+          <ScalarProperty Name="num_sala" ColumnName="num_sala" />
+          <ScalarProperty Name="um_fecha" ColumnName="um_fecha" />
+          <ScalarProperty Name="inicio" ColumnName="inicio" />
+          <ScalarProperty Name="fin" ColumnName="fin" />
+          <ScalarProperty Name="id_pelicula" ColumnName="id_pelicula" />
+          <ScalarProperty Name="id_local" ColumnName="id_local" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_locales">
+      <EntityTypeMapping TypeName="dsw_cineModel.tb_locales">
+        <MappingFragment StoreEntitySet="tb_locales">
+          <ScalarProperty Name="id_local" ColumnName="id_local" />
+          <ScalarProperty Name="nom_local" ColumnName="nom_local" />
+          <ScalarProperty Name="dir_locales" ColumnName="dir_locales" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_peliculas">
+      <EntityTypeMapping TypeName="dsw_cineModel.tb_peliculas">
+        <MappingFragment StoreEntitySet="tb_peliculas">
+          <ScalarProperty Name="id_pelicula" ColumnName="id_pelicula" />
+          <ScalarProperty Name="nom_pelicula" ColumnName="nom_pelicula" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_reservas">
+      <EntityTypeMapping TypeName="dsw_cineModel.tb_reservas">
+        <MappingFragment StoreEntitySet="tb_reservas">
+          <ScalarProperty Name="id_reserva" ColumnName="id_reserva" />
+          <ScalarProperty Name="id_funcion" ColumnName="id_funcion" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="database_firewall_rules">
+      <EntityTypeMapping TypeName="dsw_cineModel.database_firewall_rules">
+        <MappingFragment StoreEntitySet="database_firewall_rules">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="start_ip_address" ColumnName="start_ip_address" />
+          <ScalarProperty Name="end_ip_address" ColumnName="end_ip_address" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="modify_date" ColumnName="modify_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_actualizarCliente" FunctionName="dsw_cineModel.Store.sp_actualizarCliente" />
+    <FunctionImportMapping FunctionImportName="sp_buscarCliente" FunctionName="dsw_cineModel.Store.sp_buscarCliente">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dsw_cineModel.sp_buscarCliente_Result">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
+          <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
+          <ScalarProperty Name="correo_cliente" ColumnName="correo_cliente" />
+          <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="dir_cliente" ColumnName="dir_cliente" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_consultarReserva" FunctionName="dsw_cineModel.Store.sp_consultarReserva">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dsw_cineModel.sp_consultarReserva_Result">
+          <ScalarProperty Name="nom_pelicula" ColumnName="nom_pelicula" />
+          <ScalarProperty Name="nom_local" ColumnName="nom_local" />
+          <ScalarProperty Name="num_sala" ColumnName="num_sala" />
+          <ScalarProperty Name="um_fecha" ColumnName="um_fecha" />
+          <ScalarProperty Name="inicio" ColumnName="inicio" />
+          <ScalarProperty Name="fin" ColumnName="fin" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
+          <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_registrarCliente" FunctionName="dsw_cineModel.Store.sp_registrarCliente" />
+  </EntityContainerMapping>
+</Mapping>

@@ -7,9 +7,9 @@
   <TextView 
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
-     android:text="Consultar Reserva"
-     android:textSize="40px"
-     android:gravity="center_vertical"
+     android:text="Consulta Reserva"
+     android:textSize="60px"
+     android:layout_gravity="top|center_horizontal"
     />
   <LinearLayout
    android:orientation="horizontal"
@@ -19,16 +19,14 @@
      android:id="@+id/txtNroTicket"
    android:layout_width="match_parent"
    android:layout_height="wrap_content"
-   android:hint="Nro de Ticket"
-   android:textSize="10px"
+   android:hint="Nro de Ticket" 
    android:layout_gravity="top|left"
     />
     <Button
        android:id="@+id/btnConsultarReserva"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:text="Consultar"
-       android:textSize="10px"
+       android:text="Consultar" 
        android:layout_gravity="top|right"
     />
   </LinearLayout>
@@ -41,40 +39,35 @@
          android:id="@+id/txtPelicula"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-       android:hint="Nombre pelicula"
-       android:textSize="10px"
+       android:hint="Nombre pelicula" 
        android:layout_gravity="center"
     />
     <EditText
         android:id="@+id/txtLocal"
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:hint="Local"
-      android:textSize="10px"
+      android:hint="Local" 
       android:layout_gravity="center"
     />
     <EditText
        android:id="@+id/txtSala"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
-     android:hint="Sala"
-     android:textSize="10px"
+     android:hint="Sala" 
      android:layout_gravity="center"
     />
     <EditText
        android:id="@+id/txtInicio"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
-     android:hint="Inicio"
-     android:textSize="10px"
+     android:hint="Inicio" 
      android:layout_gravity="center"
     />
     <EditText
        android:id="@+id/txtFin"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
-     android:hint="Fin"
-     android:textSize="10px"
+     android:hint="Fin" 
      android:layout_gravity="center"
     />
   </LinearLayout>
@@ -92,8 +85,7 @@
        android:id="@+id/txtNombreCliente"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
-     android:hint="Nombre Cliente"
-     android:textSize="10px"
+     android:hint="Nombre Cliente" 
      android:layout_gravity="center"
     />
 </LinearLayout>

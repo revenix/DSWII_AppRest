@@ -10,10 +10,10 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
-
+using SupportFragment = Android.Support.V4.App.Fragment;
 namespace Dsw_Cine.droid.Fragments
 {
-    public class Fragment3 : Fragment
+    public class Fragment3 : SupportFragment
     {
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -26,8 +26,9 @@ namespace Dsw_Cine.droid.Fragments
         {
             // Use this to return your custom view for this Fragment
             // return inflater.Inflate(Resource.Layout.YourFragment, container, false);
+            View view = inflater.Inflate(Resource.Layout.fragment3, container, false);
 
-            return base.OnCreateView(inflater, container, savedInstanceState);
+            return view;
         }
     }
 }
