@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

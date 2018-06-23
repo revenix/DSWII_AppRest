@@ -2,6 +2,7 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.dro
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.droid.pdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.droid.Dsw_Cine.droid.apk
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.droid.Dsw_Cine.droid-Signed.apk
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.portable.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Refractored.Controls.CircleImageView.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
@@ -16,7 +17,11 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Xamarin.Andr
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.portable.pdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\Dsw_Cine.droid.csprojResolveAssemblyReference.cache
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\Dsw_Cine.droid.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\Dsw_Cine.droid.pdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\android\bin\Dsw_Cine.droid.Dsw_Cine.droid.apk
@@ -49,5 +54,7 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\drawable
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\drawable\glasses.png
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\R.cs.flag
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\uploadflags.txt
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.portable.dll.mdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.droid.dll.mdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\android\assets\Dsw_Cine.droid.dll.mdb
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\android\assets\Dsw_Cine.portable.dll.mdb

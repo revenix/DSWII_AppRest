@@ -31,8 +31,7 @@ namespace WebApiRest.Controllers
                                  inicio = s.inicio,
                                 fin = s.fin,
                                 dni = s.dni,
-                                nom_cliente = s.nom_cliente,
-                                ape_cliente = s.ape_cliente  
+                                nom_cliente = s.nom_cliente 
                             };
 
                 return Ok(query.FirstOrDefault());
@@ -59,12 +58,10 @@ namespace WebApiRest.Controllers
                             {
                                  
                                 dni = s.dni,
-                                nom_clie = s.nom_cliente,
-                                ape_clie = s.ape_cliente,
-                                correo = s.correo_cliente,
-                                clave = s.clave_cliente,
-                                telefono = s.telefono,
-                                dir_cliente = s.dir_cliente
+                                nom_clie = s.nom_cliente, 
+                                correo = s.correo_cliente, 
+                                 telefono_f = s.telefono_fijo,
+                                telefono_c = s.telefono_celular
 
                             };
 

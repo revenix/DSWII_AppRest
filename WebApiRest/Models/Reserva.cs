@@ -16,8 +16,7 @@ namespace WebApiRest.Models
         public string inicio { get; set; }
         public string fin { get; set; }
         public string dni { get; set; }
-        public string nom_cliente { get; set; }
-        public string ape_cliente { get; set; }
+        public string nom_cliente { get; set; } 
 
     }
 }

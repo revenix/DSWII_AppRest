@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dsw_cineModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tb_clientes">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="nom_cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="correo_cliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="telefono_fijo" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="telefono_celular" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_reservas" Relationship="Self.FK__tb_reservas__dni__5165187F" FromRole="tb_clientes" ToRole="tb_reservas" />
+  </EntityType>
+  <EntityType Name="tb_funciones">
+    <Key>
+      <PropertyRef Name="id_funcion" />
+    </Key>
+    <Property Name="id_funcion" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="num_sala" Type="Int32" />
+    <Property Name="um_fecha" Type="DateTime" Precision="0" />
+    <Property Name="inicio" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="fin" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="id_pelicula" Type="Int32" />
+    <Property Name="id_local" Type="Int32" />
+    <NavigationProperty Name="tb_locales" Relationship="Self.FK__tb_funcio__id_lo__534D60F1" FromRole="tb_funciones" ToRole="tb_locales" />
+    <NavigationProperty Name="tb_peliculas" Relationship="Self.FK__tb_funcio__id_pe__52593CB8" FromRole="tb_funciones" ToRole="tb_peliculas" />
+    <NavigationProperty Name="tb_reservas" Relationship="Self.FK__tb_reserv__id_fu__5070F446" FromRole="tb_funciones" ToRole="tb_reservas" />
+  </EntityType>
+  <EntityType Name="tb_locales">
+    <Key>
+      <PropertyRef Name="id_local" />
+    </Key>
+    <Property Name="id_local" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom_local" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="dir_locales" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_funciones" Relationship="Self.FK__tb_funcio__id_lo__534D60F1" FromRole="tb_locales" ToRole="tb_funciones" />
+  </EntityType>
+  <EntityType Name="tb_peliculas">
+    <Key>
+      <PropertyRef Name="id_pelicula" />
+    </Key>
+    <Property Name="id_pelicula" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom_pelicula" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_funciones" Relationship="Self.FK__tb_funcio__id_pe__52593CB8" FromRole="tb_peliculas" ToRole="tb_funciones" />
+  </EntityType>
+  <EntityType Name="tb_reservas">
+    <Key>
+      <PropertyRef Name="id_reserva" />
+    </Key>
+    <Property Name="id_reserva" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_funcion" Type="Int32" />
+    <Property Name="dni" Type="String" MaxLength="8" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="tb_clientes" Relationship="Self.FK__tb_reservas__dni__5165187F" FromRole="tb_reservas" ToRole="tb_clientes" />
+    <NavigationProperty Name="tb_funciones" Relationship="Self.FK__tb_reserv__id_fu__5070F446" FromRole="tb_reservas" ToRole="tb_funciones" />
+  </EntityType>
+  <EntityType Name="database_firewall_rules">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="start_ip_address" />
+      <PropertyRef Name="end_ip_address" />
+      <PropertyRef Name="create_date" />
+      <PropertyRef Name="modify_date" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="start_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="end_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="modify_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <Association Name="FK__tb_reservas__dni__5165187F">
+    <End Role="tb_clientes" Type="Self.tb_clientes" Multiplicity="0..1" />
+    <End Role="tb_reservas" Type="Self.tb_reservas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_clientes">
+        <PropertyRef Name="dni" />
+      </Principal>
+      <Dependent Role="tb_reservas">
+        <PropertyRef Name="dni" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tb_funcio__id_lo__534D60F1">
+    <End Role="tb_locales" Type="Self.tb_locales" Multiplicity="0..1" />
+    <End Role="tb_funciones" Type="Self.tb_funciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_locales">
+        <PropertyRef Name="id_local" />
+      </Principal>
+      <Dependent Role="tb_funciones">
+        <PropertyRef Name="id_local" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tb_funcio__id_pe__52593CB8">
+    <End Role="tb_peliculas" Type="Self.tb_peliculas" Multiplicity="0..1" />
+    <End Role="tb_funciones" Type="Self.tb_funciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_peliculas">
+        <PropertyRef Name="id_pelicula" />
+      </Principal>
+      <Dependent Role="tb_funciones">
+        <PropertyRef Name="id_pelicula" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tb_reserv__id_fu__5070F446">
+    <End Role="tb_funciones" Type="Self.tb_funciones" Multiplicity="0..1" />
+    <End Role="tb_reservas" Type="Self.tb_reservas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_funciones">
+        <PropertyRef Name="id_funcion" />
+      </Principal>
+      <Dependent Role="tb_reservas">
+        <PropertyRef Name="id_funcion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dsw_cineEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_clientes" EntityType="Self.tb_clientes" />
+    <EntitySet Name="tb_funciones" EntityType="Self.tb_funciones" />
+    <EntitySet Name="tb_locales" EntityType="Self.tb_locales" />
+    <EntitySet Name="tb_peliculas" EntityType="Self.tb_peliculas" />
+    <EntitySet Name="tb_reservas" EntityType="Self.tb_reservas" />
+    <EntitySet Name="database_firewall_rules" EntityType="Self.database_firewall_rules" />
+    <AssociationSet Name="FK__tb_reservas__dni__5165187F" Association="Self.FK__tb_reservas__dni__5165187F">
+      <End Role="tb_clientes" EntitySet="tb_clientes" />
+      <End Role="tb_reservas" EntitySet="tb_reservas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tb_funcio__id_lo__534D60F1" Association="Self.FK__tb_funcio__id_lo__534D60F1">
+      <End Role="tb_locales" EntitySet="tb_locales" />
+      <End Role="tb_funciones" EntitySet="tb_funciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tb_funcio__id_pe__52593CB8" Association="Self.FK__tb_funcio__id_pe__52593CB8">
+      <End Role="tb_peliculas" EntitySet="tb_peliculas" />
+      <End Role="tb_funciones" EntitySet="tb_funciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tb_reserv__id_fu__5070F446" Association="Self.FK__tb_reserv__id_fu__5070F446">
+      <End Role="tb_funciones" EntitySet="tb_funciones" />
+      <End Role="tb_reservas" EntitySet="tb_reservas" />
+    </AssociationSet>
+    <FunctionImport Name="sp_actualizarCliente">
+      <Parameter Name="dni" Mode="In" Type="String" />
+      <Parameter Name="nom" Mode="In" Type="String" />
+      <Parameter Name="correo" Mode="In" Type="String" />
+      <Parameter Name="telf_f" Mode="In" Type="String" />
+      <Parameter Name="telf_c" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_buscarCliente" ReturnType="Collection(dsw_cineModel.sp_buscarCliente_Result)">
+      <Parameter Name="dni" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_consultarReserva" ReturnType="Collection(dsw_cineModel.sp_consultarReserva_Result)">
+      <Parameter Name="nro" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_registrarCliente">
+      <Parameter Name="dni" Mode="In" Type="String" />
+      <Parameter Name="nom" Mode="In" Type="String" />
+      <Parameter Name="correo" Mode="In" Type="String" />
+      <Parameter Name="telf_f" Mode="In" Type="String" />
+      <Parameter Name="telf_c" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="sp_buscarCliente_Result">
+    <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="correo_cliente" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="telefono_fijo" Nullable="true" MaxLength="7" />
+    <Property Type="String" Name="telefono_celular" Nullable="true" MaxLength="9" />
+  </ComplexType>
+  <ComplexType Name="sp_consultarReserva_Result">
+    <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="nom_local" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="num_sala" Nullable="true" />
+    <Property Type="DateTime" Name="um_fecha" Nullable="true" />
+    <Property Type="String" Name="inicio" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
+    <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

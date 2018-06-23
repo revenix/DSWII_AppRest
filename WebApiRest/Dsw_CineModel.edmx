@@ -11,11 +11,9 @@
           </Key>
           <Property Name="dni" Type="char" MaxLength="8" Nullable="false" />
           <Property Name="nom_cliente" Type="varchar" MaxLength="50" />
-          <Property Name="ape_cliente" Type="varchar" MaxLength="50" />
           <Property Name="correo_cliente" Type="varchar" MaxLength="100" />
-          <Property Name="clave_cliente" Type="varchar" MaxLength="20" />
-          <Property Name="telefono" Type="varchar" MaxLength="9" />
-          <Property Name="dir_cliente" Type="varchar" MaxLength="100" />
+          <Property Name="telefono_fijo" Type="varchar" MaxLength="7" />
+          <Property Name="telefono_celular" Type="varchar" MaxLength="9" />
         </EntityType>
         <EntityType Name="tb_funciones">
           <Key>
@@ -123,11 +121,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
         <Function Name="sp_actualizarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
           <Parameter Name="dni" Type="char" Mode="In" />
           <Parameter Name="nom" Type="varchar" Mode="In" />
-          <Parameter Name="ape" Type="varchar" Mode="In" />
           <Parameter Name="correo" Type="varchar" Mode="In" />
-          <Parameter Name="clave" Type="varchar" Mode="In" />
-          <Parameter Name="telf" Type="char" Mode="In" />
-          <Parameter Name="dir" Type="varchar" Mode="In" />
+          <Parameter Name="telf_f" Type="char" Mode="In" />
+          <Parameter Name="telf_c" Type="char" Mode="In" />
         </Function>
         <Function Name="sp_buscarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
           <Parameter Name="dni" Type="int" Mode="In" />
@@ -138,11 +134,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
         <Function Name="sp_registrarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
           <Parameter Name="dni" Type="char" Mode="In" />
           <Parameter Name="nom" Type="varchar" Mode="In" />
-          <Parameter Name="ape" Type="varchar" Mode="In" />
           <Parameter Name="correo" Type="varchar" Mode="In" />
-          <Parameter Name="clave" Type="varchar" Mode="In" />
-          <Parameter Name="telf" Type="char" Mode="In" />
-          <Parameter Name="dir" Type="varchar" Mode="In" />
+          <Parameter Name="telf_f" Type="char" Mode="In" />
+          <Parameter Name="telf_c" Type="char" Mode="In" />
         </Function>
         <EntityContainer Name="dsw_cineModelStoreContainer">
           <EntitySet Name="tb_clientes" EntityType="Self.tb_clientes" Schema="dbo" store:Type="Tables" />
@@ -194,11 +188,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
           </Key>
           <Property Name="dni" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
           <Property Name="nom_cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-          <Property Name="ape_cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
           <Property Name="correo_cliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
-          <Property Name="clave_cliente" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
-          <Property Name="telefono" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
-          <Property Name="dir_cliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="telefono_fijo" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+          <Property Name="telefono_celular" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
           <NavigationProperty Name="tb_reservas" Relationship="Self.FK__tb_reservas__dni__5165187F" FromRole="tb_clientes" ToRole="tb_reservas" />
         </EntityType>
         <EntityType Name="tb_funciones">
@@ -333,11 +325,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
           <FunctionImport Name="sp_actualizarCliente">
             <Parameter Name="dni" Mode="In" Type="String" />
             <Parameter Name="nom" Mode="In" Type="String" />
-            <Parameter Name="ape" Mode="In" Type="String" />
             <Parameter Name="correo" Mode="In" Type="String" />
-            <Parameter Name="clave" Mode="In" Type="String" />
-            <Parameter Name="telf" Mode="In" Type="String" />
-            <Parameter Name="dir" Mode="In" Type="String" />
+            <Parameter Name="telf_f" Mode="In" Type="String" />
+            <Parameter Name="telf_c" Mode="In" Type="String" />
           </FunctionImport>
           <FunctionImport Name="sp_buscarCliente" ReturnType="Collection(dsw_cineModel.sp_buscarCliente_Result)">
             <Parameter Name="dni" Mode="In" Type="Int32" />
@@ -348,21 +338,17 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
           <FunctionImport Name="sp_registrarCliente">
             <Parameter Name="dni" Mode="In" Type="String" />
             <Parameter Name="nom" Mode="In" Type="String" />
-            <Parameter Name="ape" Mode="In" Type="String" />
             <Parameter Name="correo" Mode="In" Type="String" />
-            <Parameter Name="clave" Mode="In" Type="String" />
-            <Parameter Name="telf" Mode="In" Type="String" />
-            <Parameter Name="dir" Mode="In" Type="String" />
+            <Parameter Name="telf_f" Mode="In" Type="String" />
+            <Parameter Name="telf_c" Mode="In" Type="String" />
           </FunctionImport>
         </EntityContainer>
         <ComplexType Name="sp_buscarCliente_Result">
           <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
           <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
-          <Property Type="String" Name="ape_cliente" Nullable="true" MaxLength="50" />
           <Property Type="String" Name="correo_cliente" Nullable="true" MaxLength="100" />
-          <Property Type="String" Name="clave_cliente" Nullable="true" MaxLength="20" />
-          <Property Type="String" Name="telefono" Nullable="true" MaxLength="9" />
-          <Property Type="String" Name="dir_cliente" Nullable="true" MaxLength="100" />
+          <Property Type="String" Name="telefono_fijo" Nullable="true" MaxLength="7" />
+          <Property Type="String" Name="telefono_celular" Nullable="true" MaxLength="9" />
         </ComplexType>
         <ComplexType Name="sp_consultarReserva_Result">
           <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
@@ -373,7 +359,6 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
           <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
           <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
           <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
-          <Property Type="String" Name="ape_cliente" Nullable="true" MaxLength="50" />
         </ComplexType>
       </Schema>
     </edmx:ConceptualModels>
@@ -386,11 +371,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
               <MappingFragment StoreEntitySet="tb_clientes">
                 <ScalarProperty Name="dni" ColumnName="dni" />
                 <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
-                <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
                 <ScalarProperty Name="correo_cliente" ColumnName="correo_cliente" />
-                <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
-                <ScalarProperty Name="telefono" ColumnName="telefono" />
-                <ScalarProperty Name="dir_cliente" ColumnName="dir_cliente" />
+                <ScalarProperty Name="telefono_fijo" ColumnName="telefono_fijo" />
+                <ScalarProperty Name="telefono_celular" ColumnName="telefono_celular" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
@@ -451,11 +434,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
               <ComplexTypeMapping TypeName="dsw_cineModel.sp_buscarCliente_Result">
                 <ScalarProperty Name="dni" ColumnName="dni" />
                 <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
-                <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
                 <ScalarProperty Name="correo_cliente" ColumnName="correo_cliente" />
-                <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
-                <ScalarProperty Name="telefono" ColumnName="telefono" />
-                <ScalarProperty Name="dir_cliente" ColumnName="dir_cliente" />
+                <ScalarProperty Name="telefono_fijo" ColumnName="telefono_fijo" />
+                <ScalarProperty Name="telefono_celular" ColumnName="telefono_celular" />
               </ComplexTypeMapping>
             </ResultMapping>
           </FunctionImportMapping>
@@ -470,7 +451,6 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
                 <ScalarProperty Name="fin" ColumnName="fin" />
                 <ScalarProperty Name="dni" ColumnName="dni" />
                 <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
-                <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
               </ComplexTypeMapping>
             </ResultMapping>
           </FunctionImportMapping>

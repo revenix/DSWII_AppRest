@@ -17,6 +17,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content" 
     android:hint="DNI" 
+     android:inputType="number"
     android:gravity="center_vertical"
     />
   <EditText
@@ -37,6 +38,7 @@
   <EditText
      android:id="@+id/txtTelefonoFijo"
    android:layout_width="match_parent"
+     android:inputType="number"
    android:layout_height="wrap_content"
    android:hint="Telefono Fijo" 
    android:gravity="center_vertical"
@@ -45,6 +47,7 @@
      android:id="@+id/txtTelefonoCelular"
    android:layout_width="match_parent"
    android:layout_height="wrap_content"
+     android:inputType="number"
    android:hint="Telefono Celular" 
    android:gravity="center_vertical"
     />

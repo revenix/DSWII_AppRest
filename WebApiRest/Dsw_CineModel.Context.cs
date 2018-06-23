@@ -34,7 +34,7 @@ namespace WebApiRest
         public virtual DbSet<tb_reservas> tb_reservas { get; set; }
         public virtual DbSet<database_firewall_rules> database_firewall_rules { get; set; }
     
-        public virtual int sp_actualizarCliente(string dni, string nom, string ape, string correo, string clave, string telf, string dir)
+        public virtual int sp_actualizarCliente(string dni, string nom, string correo, string telf_f, string telf_c)
         {
             var dniParameter = dni != null ?
                 new ObjectParameter("dni", dni) :
@@ -44,27 +44,19 @@ namespace WebApiRest
                 new ObjectParameter("nom", nom) :
                 new ObjectParameter("nom", typeof(string));
     
-            var apeParameter = ape != null ?
-                new ObjectParameter("ape", ape) :
-                new ObjectParameter("ape", typeof(string));
-    
             var correoParameter = correo != null ?
                 new ObjectParameter("correo", correo) :
                 new ObjectParameter("correo", typeof(string));
     
-            var claveParameter = clave != null ?
-                new ObjectParameter("clave", clave) :
-                new ObjectParameter("clave", typeof(string));
+            var telf_fParameter = telf_f != null ?
+                new ObjectParameter("telf_f", telf_f) :
+                new ObjectParameter("telf_f", typeof(string));
     
-            var telfParameter = telf != null ?
-                new ObjectParameter("telf", telf) :
-                new ObjectParameter("telf", typeof(string));
+            var telf_cParameter = telf_c != null ?
+                new ObjectParameter("telf_c", telf_c) :
+                new ObjectParameter("telf_c", typeof(string));
     
-            var dirParameter = dir != null ?
-                new ObjectParameter("dir", dir) :
-                new ObjectParameter("dir", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_actualizarCliente", dniParameter, nomParameter, apeParameter, correoParameter, claveParameter, telfParameter, dirParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_actualizarCliente", dniParameter, nomParameter, correoParameter, telf_fParameter, telf_cParameter);
         }
     
         public virtual ObjectResult<sp_buscarCliente_Result> sp_buscarCliente(Nullable<int> dni)
@@ -85,7 +77,7 @@ namespace WebApiRest
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_consultarReserva_Result>("sp_consultarReserva", nroParameter);
         }
     
-        public virtual int sp_registrarCliente(string dni, string nom, string ape, string correo, string clave, string telf, string dir)
+        public virtual int sp_registrarCliente(string dni, string nom, string correo, string telf_f, string telf_c)
         {
             var dniParameter = dni != null ?
                 new ObjectParameter("dni", dni) :
@@ -95,27 +87,19 @@ namespace WebApiRest
                 new ObjectParameter("nom", nom) :
                 new ObjectParameter("nom", typeof(string));
     
-            var apeParameter = ape != null ?
-                new ObjectParameter("ape", ape) :
-                new ObjectParameter("ape", typeof(string));
-    
             var correoParameter = correo != null ?
                 new ObjectParameter("correo", correo) :
                 new ObjectParameter("correo", typeof(string));
     
-            var claveParameter = clave != null ?
-                new ObjectParameter("clave", clave) :
-                new ObjectParameter("clave", typeof(string));
+            var telf_fParameter = telf_f != null ?
+                new ObjectParameter("telf_f", telf_f) :
+                new ObjectParameter("telf_f", typeof(string));
     
-            var telfParameter = telf != null ?
-                new ObjectParameter("telf", telf) :
-                new ObjectParameter("telf", typeof(string));
+            var telf_cParameter = telf_c != null ?
+                new ObjectParameter("telf_c", telf_c) :
+                new ObjectParameter("telf_c", typeof(string));
     
-            var dirParameter = dir != null ?
-                new ObjectParameter("dir", dir) :
-                new ObjectParameter("dir", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_registrarCliente", dniParameter, nomParameter, apeParameter, correoParameter, claveParameter, telfParameter, dirParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_registrarCliente", dniParameter, nomParameter, correoParameter, telf_fParameter, telf_cParameter);
         }
     }
 }

@@ -10,11 +10,9 @@ namespace WebApiRest.Models
 
         public string dni { get; set; }
         public string nom_clie { get; set; }
-        public string ape_clie { get; set; }
-        public string correo { get; set; }
-        public string clave { get; set; }
-        public string telefono { get; set; }
-        public string dir_cliente { get; set; } 
+        public string correo { get; set; } 
+        public string telefono_f { get; set; }
+        public string telefono_c { get; set; } 
 
 
     }

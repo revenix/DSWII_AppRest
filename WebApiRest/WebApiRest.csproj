@@ -239,8 +239,8 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Dsw_CineModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Dsw_CineModel.Context.cs</LastGenOutput>
       <DependentUpon>Dsw_CineModel.edmx</DependentUpon>
+      <LastGenOutput>Dsw_CineModel.Context.cs</LastGenOutput>
     </Content>
     <Content Include="Dsw_CineModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
@@ -281,6 +281,7 @@
     <Content Include="Dsw_CineModel.edmx.diagram">
       <DependentUpon>Dsw_CineModel.edmx</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\WebApiRestCine - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

@@ -18,11 +18,11 @@ namespace WebApiRest.Controllers
 
         [HttpPost]
         [Route("registrocliente")]
-        public string PostRegistroCliente(string dni, string  nom , string ape, string correo,string clave , string telf , string dir)
+        public string PostRegistroCliente(string dni, string  nom, string correo, string telf_f , string telf_c)
         { 
             try
             {
-                var query = db.sp_registrarCliente(dni,nom,ape,correo,clave,telf,dir);
+                var query = db.sp_registrarCliente(dni,nom,correo,telf_f, telf_c);
 
                 return query.ToString();
             }
@@ -35,11 +35,11 @@ namespace WebApiRest.Controllers
 
           [HttpPut]
           [Route("actualizacliente")]
-        public IHttpActionResult putActualizaCliente(string dni, string nom, string ape, string correo, string clave, string telf, string dir)
+        public IHttpActionResult putActualizaCliente(string dni, string nom, string correo, string telf_f, string telf_c)
           {
               try
               {
-                  var query = db.sp_actualizarCliente(dni, nom, ape, correo, clave, telf, dir);
+                  var query = db.sp_actualizarCliente(dni, nom, correo, telf_f, telf_c);
                   return Ok("Actualizado Correctamente");
               }
               catch (Exception ex)

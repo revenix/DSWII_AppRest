@@ -18,6 +18,7 @@
     <EditText
      android:id="@+id/txtNroTicket"
    android:layout_width="wrap_content"
+     android:inputType="number"
    android:layout_height="wrap_content"
    android:hint="Nro de Ticket" 
    android:layout_gravity="top|left"

@@ -22,11 +22,9 @@ namespace WebApiRest
     
         public string dni { get; set; }
         public string nom_cliente { get; set; }
-        public string ape_cliente { get; set; }
         public string correo_cliente { get; set; }
-        public string clave_cliente { get; set; }
-        public string telefono { get; set; }
-        public string dir_cliente { get; set; }
+        public string telefono_fijo { get; set; }
+        public string telefono_celular { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tb_reservas> tb_reservas { get; set; }

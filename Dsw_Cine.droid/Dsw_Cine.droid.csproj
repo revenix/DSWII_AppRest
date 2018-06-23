@@ -198,6 +198,12 @@
     <AndroidResource Include="Resources\drawable\glasses.png" />
     <Content Include="values-v21\Styles.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dsw_Cine.portable\Dsw_Cine.portable.csproj">
+      <Project>{B72B12F6-8021-4C3A-A75B-B30D2E2280EC}</Project>
+      <Name>Dsw_Cine.portable</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

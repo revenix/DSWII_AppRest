@@ -18,6 +18,7 @@
     android:layout_height="wrap_content">
     <EditText
      android:id="@+id/txtDniValido"
+     android:inputType="number"
    android:layout_width="wrap_content"
    android:layout_height="wrap_content"
    android:hint="DNI" 
@@ -40,29 +41,31 @@
   android:layout_height="wrap_content">
 
     <EditText
-         android:id="@+id/txtNombre"
+         android:id="@+id/txtNombreval"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:hint="Nombre Completo" 
        android:layout_gravity="center"
     />
     <EditText
-     android:id="@+id/txtEmail"
+     android:id="@+id/txtEmailval"
    android:layout_width="match_parent"
    android:layout_height="wrap_content"
    android:hint="Email" 
    android:layout_gravity="center"
     />
     <EditText
-     android:id="@+id/txtTelefonoFijo"
+     android:id="@+id/txtTelefonoFijoval"
    android:layout_width="match_parent"
+     android:inputType="number"
    android:layout_height="wrap_content"
    android:hint="Telefono Fijo" 
    android:layout_gravity="center"
     />
     <EditText
-     android:id="@+id/txtTelefonoCelular"
+     android:id="@+id/txtTelefonoCelularval"
    android:layout_width="match_parent"
+     android:inputType="number"
    android:layout_height="wrap_content"
    android:hint="Telefono Celular" 
  android:layout_gravity="center"
