@@ -34,7 +34,7 @@
     /> 
   </LinearLayout>
   <LinearLayout
- android:orientation="horizontal"
+ android:orientation="vertical"
   android:layout_width="match_parent"
   android:layout_height="wrap_content">
 
@@ -75,7 +75,7 @@
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="Actualizar"
-       android:textSize="10px"
+       android:textSize="20px"
     android:layout_gravity="bottom|center_horizontal"
     />
   </LinearLayout>
