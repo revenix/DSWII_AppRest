@@ -4,4 +4,64 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+  <TextView 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Registra Usuario"
+    android:textSize="40px"
+    android:gravity="center_vertical"
+    />
+
+  <EditText
+     android:id="@+id/txtDni"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:hint="DNI"
+    android:textSize="40px"
+    android:gravity="center_vertical"
+    />
+  <EditText
+     android:id="@+id/txtNombre"
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:hint="Nombre Completo"
+   android:textSize="40px"
+   android:gravity="center_vertical"
+    />
+  <EditText
+     android:id="@+id/txtEmail"
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:hint="Email"
+   android:textSize="40px"
+   android:gravity="center_vertical"
+    />
+  <EditText
+     android:id="@+id/txtTelefonoFijo"
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:hint="Telefono Fijo"
+   android:textSize="40px"
+   android:gravity="center_vertical"
+    />
+  <EditText
+     android:id="@+id/txtTelefonoCelular"
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:hint="Telefono Celular"
+   android:textSize="40px"
+   android:gravity="center_vertical"
+    />
+
+
+
+  <Button
+     android:id="@+id/btnRegistrar"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="Registrar"
+     android:textSize="40px"
+     android:layout_gravity="bottom|center_horizontal" 
+    />
+
 </LinearLayout>
