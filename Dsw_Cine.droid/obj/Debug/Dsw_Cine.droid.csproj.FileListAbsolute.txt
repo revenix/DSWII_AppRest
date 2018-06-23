@@ -45,5 +45,9 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\drawable
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\values\colors.xml
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\values\dimens.xml
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\values\styles.xml
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\drawable\popcorn.png
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\res\drawable\glasses.png
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\R.cs.flag
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\uploadflags.txt
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Debug\Dsw_Cine.droid.dll.mdb
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Debug\android\assets\Dsw_Cine.droid.dll.mdb

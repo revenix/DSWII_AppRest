@@ -17,75 +17,147 @@
     android:layout_height="wrap_content">
     <EditText
      android:id="@+id/txtNroTicket"
-   android:layout_width="match_parent"
+   android:layout_width="wrap_content"
    android:layout_height="wrap_content"
    android:hint="Nro de Ticket" 
    android:layout_gravity="top|left"
+      android:layout_weight="1"
     />
     <Button
        android:id="@+id/btnConsultarReserva"
-       android:layout_width="match_parent"
+       android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:text="Consultar" 
+       android:background="#0D7E83"
        android:layout_gravity="top|right"
+        android:layout_weight="1"
     />
   </LinearLayout>
   <LinearLayout
- android:orientation="vertical"
-  android:layout_width="match_parent"
-  android:layout_height="wrap_content">
-
-    <EditText
-         android:id="@+id/txtPelicula"
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:hint="Nombre pelicula" 
-       android:layout_gravity="center"
-    />
-    <EditText
-        android:id="@+id/txtLocal"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:hint="Local" 
-      android:layout_gravity="center"
-    />
-    <EditText
-       android:id="@+id/txtSala"
+    android:orientation="horizontal"
      android:layout_width="match_parent"
-     android:layout_height="wrap_content"
-     android:hint="Sala" 
-     android:layout_gravity="center"
+     android:layout_height="wrap_content">
+    <TextView
+          android:layout_weight="1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Pelicula :"
+       android:layout_gravity="center_vertical|left"
     />
-    <EditText
-       android:id="@+id/txtInicio"
-     android:layout_width="match_parent"
+    <TextView
+      android:layout_weight="1"
+       android:id="@+id/txtPelicula"
+     android:layout_width="wrap_content"
      android:layout_height="wrap_content"
-     android:hint="Inicio" 
-     android:layout_gravity="center"
-    />
-    <EditText
-       android:id="@+id/txtFin"
-     android:layout_width="match_parent"
-     android:layout_height="wrap_content"
-     android:hint="Fin" 
-     android:layout_gravity="center"
+     android:layout_gravity="center_vertical|right"
     />
   </LinearLayout>
-
-
-  <EditText
-       android:id="@+id/txtDniCliente"
+  <LinearLayout
+    android:orientation="horizontal"
      android:layout_width="match_parent"
+     android:layout_height="wrap_content">
+    <TextView
+          android:layout_weight="1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Local :"
+       android:layout_gravity="center_vertical|left"
+    />
+    <TextView
+      android:layout_weight="1"
+       android:id="@+id/txtLocal"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center_vertical|right"
+    />
+  </LinearLayout>
+  <LinearLayout
+      android:orientation="horizontal"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+    <TextView
+          android:layout_weight="1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Sala :"
+       android:layout_gravity="center_vertical|left"
+    />
+    <TextView
+      android:layout_weight="1"
+       android:id="@+id/txtSala"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center_vertical|right"
+    />
+  </LinearLayout>
+  <LinearLayout
+    android:orientation="horizontal"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content">
+    <TextView
+          android:layout_weight="1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Inicio :"
+       android:layout_gravity="center_vertical|left"
+    />
+    <TextView
+      android:layout_weight="1"
+       android:id="@+id/txtInicio"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center_vertical|right"
+    />
+  </LinearLayout>
+  <LinearLayout
+    android:orientation="horizontal"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content">
+    <TextView
+          android:layout_weight="1" 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Fin :"
+       android:layout_gravity="center_vertical|left"
+    />
+    <TextView
+      android:layout_weight="1"
+       android:id="@+id/txtFin"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center_vertical|right"
+    />
+  </LinearLayout>
+  
+  
+  <LinearLayout
+   android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+  
+    <TextView
+          android:layout_weight="1"
+           android:id="@+id/txtDniCliente"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Datos del Cliente : "
+        android:layout_gravity="bottom|left"
+    />
+    <TextView
+      android:layout_weight="1"
+       android:id="@+id/txtDniCliente"
+     android:layout_width="wrap_content"
      android:layout_height="wrap_content"
      android:hint="Dni Cliente"
-     android:textSize="10px"
-     android:layout_gravity="center"
+     android:layout_gravity="bottom|center_horizontal"
     />
-  <EditText
+    <TextView
+      android:layout_weight="1"
        android:id="@+id/txtNombreCliente"
-     android:layout_width="match_parent"
+     android:layout_width="wrap_content"
      android:layout_height="wrap_content"
-     android:hint="Nombre Cliente" 
-     android:layout_gravity="center"
+     android:hint="Nombre Cliente"
+     android:layout_gravity="bottom|right"
     />
+   </LinearLayout>
 </LinearLayout>

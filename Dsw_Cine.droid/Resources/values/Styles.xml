@@ -7,9 +7,9 @@
   </style>
 
   <style name="Base.Theme.DesignDemo" parent="Theme.AppCompat.Light.NoActionBar">
-    <item name="colorPrimary">#673AB7</item>
-    <item name="colorPrimaryDark">#512DA8</item>
-    <item name="colorAccent">#FF4081</item>
+    <item name="colorPrimary">#00204A</item>
+    <item name="colorPrimaryDark">#00204A</item>
+    <item name="colorAccent">#FD5F00</item>
   </style>
 
   <style name="Widget.CardContent" parent="android:Widget">

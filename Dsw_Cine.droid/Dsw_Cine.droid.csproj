@@ -194,6 +194,8 @@
     <AndroidResource Include="Resources\values\Styles.xml" />
   </ItemGroup>
   <ItemGroup>
+    <AndroidResource Include="Resources\drawable\popcorn.png" />
+    <AndroidResource Include="Resources\drawable\glasses.png" />
     <Content Include="values-v21\Styles.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

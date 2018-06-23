@@ -1,0 +1,2 @@
+android.app.Application
+Dsw_Cine.droid.Dsw_Cine.droid

@@ -16,8 +16,7 @@
      android:id="@+id/txtDni"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" 
-    android:hint="DNI"
-    android:textSize="10px"
+    android:hint="DNI" 
     android:gravity="center_vertical"
     />
   <EditText
@@ -57,6 +56,7 @@
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
      android:text="Registrar" 
+     android:background="#0D7E83"
      android:layout_gravity="bottom|center_horizontal" 
     />
 

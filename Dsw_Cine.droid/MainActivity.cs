@@ -19,7 +19,7 @@ using Dsw_Cine.droid.Fragments;
 
 namespace Dsw_Cine.droid
 {
-    [Activity(Theme = "@style/Theme.DesignDemo" ,Label = "CinePobrePolis", MainLauncher = true)]
+    [Activity(Theme = "@style/Theme.DesignDemo" ,Label = "CinePobrePolis", MainLauncher = true, Icon = "@drawable/glasses")]
     public class MainActivity : AppCompatActivity
     {
 
@@ -100,8 +100,8 @@ namespace Dsw_Cine.droid
                               }
                               //lector de QR
                               */
-                       }); //; para que no sea visible
-                       // .Show();
+                       }).Show();
+
             };
             
             /*Boton Flotante*/
