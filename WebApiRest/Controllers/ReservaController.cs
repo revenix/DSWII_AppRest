@@ -24,7 +24,7 @@ namespace WebApiRest.Controllers
 
                             select new Reserva()
                             {
-                                 nombre_peli = s.nom_cliente,
+                                 nombre_peli = s.nom_pelicula,
                                  nombre_local = s.nom_local,
                                  num_sala = int.Parse(s.num_sala+""),
                                  um_fecha = s.um_fecha.ToString(),

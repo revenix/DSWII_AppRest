@@ -1,7 +1,5 @@
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.droid.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.droid.pdb
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.droid.Dsw_Cine.droid.apk
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.droid.Dsw_Cine.droid-Signed.apk
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.portable.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Refractored.Controls.CircleImageView.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -24,7 +22,6 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Newtonsoft
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\Dsw_Cine.droid.csprojResolveAssemblyReference.cache
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\Dsw_Cine.droid.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\Dsw_Cine.droid.pdb
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\android\bin\Dsw_Cine.droid.Dsw_Cine.droid.apk
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\res\menu\drawer_view.xml
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\res\layout\include_list_viewpager.xml
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\res\layout\nav_header.xml
@@ -54,6 +51,9 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\res\drawab
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\res\drawable\glasses.png
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\R.cs.flag
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\uploadflags.txt
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\CinePobrePolis.CinePobrePolis.apk
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\CinePobrePolis.CinePobrePolis-Signed.apk
+C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\android\bin\CinePobrePolis.CinePobrePolis.apk
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.portable.dll.mdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\bin\Release\Dsw_Cine.droid.dll.mdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.droid\obj\Release\android\assets\Dsw_Cine.droid.dll.mdb

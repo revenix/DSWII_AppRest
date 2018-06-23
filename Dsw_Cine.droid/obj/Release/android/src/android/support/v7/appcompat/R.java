@@ -3442,35 +3442,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background Dsw_Cine.droid.Dsw_Cine.droid:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit Dsw_Cine.droid.Dsw_Cine.droid:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked Dsw_Cine.droid.Dsw_Cine.droid:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft Dsw_Cine.droid.Dsw_Cine.droid:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight Dsw_Cine.droid.Dsw_Cine.droid:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout Dsw_Cine.droid.Dsw_Cine.droid:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions Dsw_Cine.droid.Dsw_Cine.droid:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider Dsw_Cine.droid.Dsw_Cine.droid:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation Dsw_Cine.droid.Dsw_Cine.droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height Dsw_Cine.droid.Dsw_Cine.droid:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll Dsw_Cine.droid.Dsw_Cine.droid:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator Dsw_Cine.droid.Dsw_Cine.droid:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout Dsw_Cine.droid.Dsw_Cine.droid:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon Dsw_Cine.droid.Dsw_Cine.droid:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle Dsw_Cine.droid.Dsw_Cine.droid:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding Dsw_Cine.droid.Dsw_Cine.droid:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo Dsw_Cine.droid.Dsw_Cine.droid:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode Dsw_Cine.droid.Dsw_Cine.droid:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme Dsw_Cine.droid.Dsw_Cine.droid:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding Dsw_Cine.droid.Dsw_Cine.droid:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle Dsw_Cine.droid.Dsw_Cine.droid:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle Dsw_Cine.droid.Dsw_Cine.droid:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title Dsw_Cine.droid.Dsw_Cine.droid:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle Dsw_Cine.droid.Dsw_Cine.droid:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background CinePobrePolis.CinePobrePolis:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit CinePobrePolis.CinePobrePolis:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked CinePobrePolis.CinePobrePolis:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd CinePobrePolis.CinePobrePolis:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions CinePobrePolis.CinePobrePolis:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft CinePobrePolis.CinePobrePolis:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight CinePobrePolis.CinePobrePolis:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart CinePobrePolis.CinePobrePolis:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation CinePobrePolis.CinePobrePolis:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout CinePobrePolis.CinePobrePolis:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions CinePobrePolis.CinePobrePolis:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider CinePobrePolis.CinePobrePolis:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation CinePobrePolis.CinePobrePolis:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height CinePobrePolis.CinePobrePolis:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll CinePobrePolis.CinePobrePolis:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator CinePobrePolis.CinePobrePolis:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout CinePobrePolis.CinePobrePolis:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon CinePobrePolis.CinePobrePolis:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle CinePobrePolis.CinePobrePolis:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding CinePobrePolis.CinePobrePolis:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo CinePobrePolis.CinePobrePolis:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode CinePobrePolis.CinePobrePolis:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme CinePobrePolis.CinePobrePolis:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding CinePobrePolis.CinePobrePolis:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle CinePobrePolis.CinePobrePolis:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle CinePobrePolis.CinePobrePolis:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle CinePobrePolis.CinePobrePolis:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title CinePobrePolis.CinePobrePolis:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle CinePobrePolis.CinePobrePolis:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3513,17 +3513,17 @@ containing a value of this type.
             0x7f010061
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#background}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:background
+          @attr name CinePobrePolis.CinePobrePolis:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3531,11 +3531,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundSplit
+          @attr name CinePobrePolis.CinePobrePolis:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3543,11 +3543,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundStacked
+          @attr name CinePobrePolis.CinePobrePolis:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3559,11 +3559,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEnd
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3575,11 +3575,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEndWithActions
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3591,11 +3591,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetLeft
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3607,11 +3607,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetRight
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3623,11 +3623,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStart
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3639,21 +3639,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStartWithNavigation
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:customNavigationLayout
+          @attr name CinePobrePolis.CinePobrePolis:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3671,21 +3671,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:displayOptions
+          @attr name CinePobrePolis.CinePobrePolis:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#divider}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:divider
+          @attr name CinePobrePolis.CinePobrePolis:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3697,11 +3697,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:elevation
+          @attr name CinePobrePolis.CinePobrePolis:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#height}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3713,11 +3713,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:height
+          @attr name CinePobrePolis.CinePobrePolis:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3727,51 +3727,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:hideOnContentScroll
+          @attr name CinePobrePolis.CinePobrePolis:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:homeAsUpIndicator
+          @attr name CinePobrePolis.CinePobrePolis:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:homeLayout
+          @attr name CinePobrePolis.CinePobrePolis:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#icon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:icon
+          @attr name CinePobrePolis.CinePobrePolis:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:indeterminateProgressStyle
+          @attr name CinePobrePolis.CinePobrePolis:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3783,21 +3783,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemPadding
+          @attr name CinePobrePolis.CinePobrePolis:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#logo}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:logo
+          @attr name CinePobrePolis.CinePobrePolis:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3811,21 +3811,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:navigationMode
+          @attr name CinePobrePolis.CinePobrePolis:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:popupTheme
+          @attr name CinePobrePolis.CinePobrePolis:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3837,21 +3837,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:progressBarPadding
+          @attr name CinePobrePolis.CinePobrePolis:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:progressBarStyle
+          @attr name CinePobrePolis.CinePobrePolis:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3861,21 +3861,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subtitle
+          @attr name CinePobrePolis.CinePobrePolis:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextStyle
+          @attr name CinePobrePolis.CinePobrePolis:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#title}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3885,17 +3885,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:title
+          @attr name CinePobrePolis.CinePobrePolis:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleTextStyle
+          @attr name CinePobrePolis.CinePobrePolis:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3947,12 +3947,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background Dsw_Cine.droid.Dsw_Cine.droid:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit Dsw_Cine.droid.Dsw_Cine.droid:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout Dsw_Cine.droid.Dsw_Cine.droid:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height Dsw_Cine.droid.Dsw_Cine.droid:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle Dsw_Cine.droid.Dsw_Cine.droid:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background CinePobrePolis.CinePobrePolis:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit CinePobrePolis.CinePobrePolis:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout CinePobrePolis.CinePobrePolis:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height CinePobrePolis.CinePobrePolis:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle CinePobrePolis.CinePobrePolis:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle CinePobrePolis.CinePobrePolis:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3966,17 +3966,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010012, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#background}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:background
+          @attr name CinePobrePolis.CinePobrePolis:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3984,21 +3984,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundSplit
+          @attr name CinePobrePolis.CinePobrePolis:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:closeItemLayout
+          @attr name CinePobrePolis.CinePobrePolis:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#height}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4010,27 +4010,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:height
+          @attr name CinePobrePolis.CinePobrePolis:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextStyle
+          @attr name CinePobrePolis.CinePobrePolis:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleTextStyle
+          @attr name CinePobrePolis.CinePobrePolis:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4039,8 +4039,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable Dsw_Cine.droid.Dsw_Cine.droid:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount Dsw_Cine.droid.Dsw_Cine.droid:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable CinePobrePolis.CinePobrePolis:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount CinePobrePolis.CinePobrePolis:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4049,17 +4049,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010023, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandActivityOverflowButtonDrawable
+          @attr name CinePobrePolis.CinePobrePolis:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4069,7 +4069,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:initialActivityCount
+          @attr name CinePobrePolis.CinePobrePolis:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4079,12 +4079,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout Dsw_Cine.droid.Dsw_Cine.droid:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout Dsw_Cine.droid.Dsw_Cine.droid:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout Dsw_Cine.droid.Dsw_Cine.droid:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout Dsw_Cine.droid.Dsw_Cine.droid:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle Dsw_Cine.droid.Dsw_Cine.droid:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout Dsw_Cine.droid.Dsw_Cine.droid:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout CinePobrePolis.CinePobrePolis:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout CinePobrePolis.CinePobrePolis:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout CinePobrePolis.CinePobrePolis:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout CinePobrePolis.CinePobrePolis:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle CinePobrePolis.CinePobrePolis:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout CinePobrePolis.CinePobrePolis:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4105,47 +4105,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonPanelSideLayout
+          @attr name CinePobrePolis.CinePobrePolis:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listItemLayout
+          @attr name CinePobrePolis.CinePobrePolis:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listLayout
+          @attr name CinePobrePolis.CinePobrePolis:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:multiChoiceItemLayout
+          @attr name CinePobrePolis.CinePobrePolis:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4155,17 +4155,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:showTitle
+          @attr name CinePobrePolis.CinePobrePolis:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:singleChoiceItemLayout
+          @attr name CinePobrePolis.CinePobrePolis:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4175,8 +4175,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation Dsw_Cine.droid.Dsw_Cine.droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded Dsw_Cine.droid.Dsw_Cine.droid:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation CinePobrePolis.CinePobrePolis:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded CinePobrePolis.CinePobrePolis:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4192,7 +4192,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4204,11 +4204,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:elevation
+          @attr name CinePobrePolis.CinePobrePolis:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expanded}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4218,7 +4218,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expanded
+          @attr name CinePobrePolis.CinePobrePolis:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4227,8 +4227,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed Dsw_Cine.droid.Dsw_Cine.droid:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible Dsw_Cine.droid.Dsw_Cine.droid:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed CinePobrePolis.CinePobrePolis:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible CinePobrePolis.CinePobrePolis:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4237,7 +4237,7 @@ containing a value of this type.
             0x7f0100ec, 0x7f0100ed
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4247,11 +4247,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:state_collapsed
+          @attr name CinePobrePolis.CinePobrePolis:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4261,7 +4261,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:state_collapsible
+          @attr name CinePobrePolis.CinePobrePolis:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4270,8 +4270,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags Dsw_Cine.droid.Dsw_Cine.droid:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator Dsw_Cine.droid.Dsw_Cine.droid:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags CinePobrePolis.CinePobrePolis:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator CinePobrePolis.CinePobrePolis:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4280,7 +4280,7 @@ containing a value of this type.
             0x7f0100ee, 0x7f0100ef
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4296,17 +4296,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_scrollFlags
+          @attr name CinePobrePolis.CinePobrePolis:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_scrollInterpolator
+          @attr name CinePobrePolis.CinePobrePolis:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4316,9 +4316,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat Dsw_Cine.droid.Dsw_Cine.droid:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint Dsw_Cine.droid.Dsw_Cine.droid:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode Dsw_Cine.droid.Dsw_Cine.droid:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat CinePobrePolis.CinePobrePolis:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint CinePobrePolis.CinePobrePolis:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode CinePobrePolis.CinePobrePolis:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4335,17 +4335,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:srcCompat
+          @attr name CinePobrePolis.CinePobrePolis:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4356,11 +4356,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tint
+          @attr name CinePobrePolis.CinePobrePolis:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4376,7 +4376,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tintMode
+          @attr name CinePobrePolis.CinePobrePolis:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4386,9 +4386,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark Dsw_Cine.droid.Dsw_Cine.droid:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint Dsw_Cine.droid.Dsw_Cine.droid:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode Dsw_Cine.droid.Dsw_Cine.droid:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark CinePobrePolis.CinePobrePolis:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint CinePobrePolis.CinePobrePolis:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode CinePobrePolis.CinePobrePolis:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4405,17 +4405,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tickMark
+          @attr name CinePobrePolis.CinePobrePolis:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4426,11 +4426,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tickMarkTint
+          @attr name CinePobrePolis.CinePobrePolis:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4447,7 +4447,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tickMarkTintMode
+          @attr name CinePobrePolis.CinePobrePolis:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4525,7 +4525,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps Dsw_Cine.droid.Dsw_Cine.droid:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps CinePobrePolis.CinePobrePolis:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4540,14 +4540,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAllCaps
+          @attr name CinePobrePolis.CinePobrePolis:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4556,122 +4556,122 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider Dsw_Cine.droid.Dsw_Cine.droid:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground Dsw_Cine.droid.Dsw_Cine.droid:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme Dsw_Cine.droid.Dsw_Cine.droid:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize Dsw_Cine.droid.Dsw_Cine.droid:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle Dsw_Cine.droid.Dsw_Cine.droid:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle Dsw_Cine.droid.Dsw_Cine.droid:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle Dsw_Cine.droid.Dsw_Cine.droid:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle Dsw_Cine.droid.Dsw_Cine.droid:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle Dsw_Cine.droid.Dsw_Cine.droid:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme Dsw_Cine.droid.Dsw_Cine.droid:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme Dsw_Cine.droid.Dsw_Cine.droid:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle Dsw_Cine.droid.Dsw_Cine.droid:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor Dsw_Cine.droid.Dsw_Cine.droid:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground Dsw_Cine.droid.Dsw_Cine.droid:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle Dsw_Cine.droid.Dsw_Cine.droid:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground Dsw_Cine.droid.Dsw_Cine.droid:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle Dsw_Cine.droid.Dsw_Cine.droid:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable Dsw_Cine.droid.Dsw_Cine.droid:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle Dsw_Cine.droid.Dsw_Cine.droid:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle Dsw_Cine.droid.Dsw_Cine.droid:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle Dsw_Cine.droid.Dsw_Cine.droid:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons Dsw_Cine.droid.Dsw_Cine.droid:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle Dsw_Cine.droid.Dsw_Cine.droid:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme Dsw_Cine.droid.Dsw_Cine.droid:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider CinePobrePolis.CinePobrePolis:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground CinePobrePolis.CinePobrePolis:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme CinePobrePolis.CinePobrePolis:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize CinePobrePolis.CinePobrePolis:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle CinePobrePolis.CinePobrePolis:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle CinePobrePolis.CinePobrePolis:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle CinePobrePolis.CinePobrePolis:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle CinePobrePolis.CinePobrePolis:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle CinePobrePolis.CinePobrePolis:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme CinePobrePolis.CinePobrePolis:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme CinePobrePolis.CinePobrePolis:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle CinePobrePolis.CinePobrePolis:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle CinePobrePolis.CinePobrePolis:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance CinePobrePolis.CinePobrePolis:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor CinePobrePolis.CinePobrePolis:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground CinePobrePolis.CinePobrePolis:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle CinePobrePolis.CinePobrePolis:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable CinePobrePolis.CinePobrePolis:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable CinePobrePolis.CinePobrePolis:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable CinePobrePolis.CinePobrePolis:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable CinePobrePolis.CinePobrePolis:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable CinePobrePolis.CinePobrePolis:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle CinePobrePolis.CinePobrePolis:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable CinePobrePolis.CinePobrePolis:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable CinePobrePolis.CinePobrePolis:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground CinePobrePolis.CinePobrePolis:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle CinePobrePolis.CinePobrePolis:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable CinePobrePolis.CinePobrePolis:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle CinePobrePolis.CinePobrePolis:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle CinePobrePolis.CinePobrePolis:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle CinePobrePolis.CinePobrePolis:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle CinePobrePolis.CinePobrePolis:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons CinePobrePolis.CinePobrePolis:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle CinePobrePolis.CinePobrePolis:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme CinePobrePolis.CinePobrePolis:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle Dsw_Cine.droid.Dsw_Cine.droid:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle Dsw_Cine.droid.Dsw_Cine.droid:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle Dsw_Cine.droid.Dsw_Cine.droid:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall Dsw_Cine.droid.Dsw_Cine.droid:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle Dsw_Cine.droid.Dsw_Cine.droid:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle Dsw_Cine.droid.Dsw_Cine.droid:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent Dsw_Cine.droid.Dsw_Cine.droid:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating Dsw_Cine.droid.Dsw_Cine.droid:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal Dsw_Cine.droid.Dsw_Cine.droid:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated Dsw_Cine.droid.Dsw_Cine.droid:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight Dsw_Cine.droid.Dsw_Cine.droid:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal Dsw_Cine.droid.Dsw_Cine.droid:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary Dsw_Cine.droid.Dsw_Cine.droid:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark Dsw_Cine.droid.Dsw_Cine.droid:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal Dsw_Cine.droid.Dsw_Cine.droid:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground Dsw_Cine.droid.Dsw_Cine.droid:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding Dsw_Cine.droid.Dsw_Cine.droid:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme Dsw_Cine.droid.Dsw_Cine.droid:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal Dsw_Cine.droid.Dsw_Cine.droid:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical Dsw_Cine.droid.Dsw_Cine.droid:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle Dsw_Cine.droid.Dsw_Cine.droid:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight Dsw_Cine.droid.Dsw_Cine.droid:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground Dsw_Cine.droid.Dsw_Cine.droid:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor Dsw_Cine.droid.Dsw_Cine.droid:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle Dsw_Cine.droid.Dsw_Cine.droid:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator Dsw_Cine.droid.Dsw_Cine.droid:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator Dsw_Cine.droid.Dsw_Cine.droid:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog Dsw_Cine.droid.Dsw_Cine.droid:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle Dsw_Cine.droid.Dsw_Cine.droid:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle Dsw_Cine.droid.Dsw_Cine.droid:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground Dsw_Cine.droid.Dsw_Cine.droid:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme Dsw_Cine.droid.Dsw_Cine.droid:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth Dsw_Cine.droid.Dsw_Cine.droid:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle Dsw_Cine.droid.Dsw_Cine.droid:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle Dsw_Cine.droid.Dsw_Cine.droid:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle Dsw_Cine.droid.Dsw_Cine.droid:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator Dsw_Cine.droid.Dsw_Cine.droid:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall Dsw_Cine.droid.Dsw_Cine.droid:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle Dsw_Cine.droid.Dsw_Cine.droid:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle Dsw_Cine.droid.Dsw_Cine.droid:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground Dsw_Cine.droid.Dsw_Cine.droid:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless Dsw_Cine.droid.Dsw_Cine.droid:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle Dsw_Cine.droid.Dsw_Cine.droid:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle Dsw_Cine.droid.Dsw_Cine.droid:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle Dsw_Cine.droid.Dsw_Cine.droid:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader Dsw_Cine.droid.Dsw_Cine.droid:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem Dsw_Cine.droid.Dsw_Cine.droid:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl Dsw_Cine.droid.Dsw_Cine.droid:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle Dsw_Cine.droid.Dsw_Cine.droid:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle Dsw_Cine.droid.Dsw_Cine.droid:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar Dsw_Cine.droid.Dsw_Cine.droid:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay Dsw_Cine.droid.Dsw_Cine.droid:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay Dsw_Cine.droid.Dsw_Cine.droid:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor Dsw_Cine.droid.Dsw_Cine.droid:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor Dsw_Cine.droid.Dsw_Cine.droid:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor Dsw_Cine.droid.Dsw_Cine.droid:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor Dsw_Cine.droid.Dsw_Cine.droid:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor Dsw_Cine.droid.Dsw_Cine.droid:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor Dsw_Cine.droid.Dsw_Cine.droid:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle Dsw_Cine.droid.Dsw_Cine.droid:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle CinePobrePolis.CinePobrePolis:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle CinePobrePolis.CinePobrePolis:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle CinePobrePolis.CinePobrePolis:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle CinePobrePolis.CinePobrePolis:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle CinePobrePolis.CinePobrePolis:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle CinePobrePolis.CinePobrePolis:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle CinePobrePolis.CinePobrePolis:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle CinePobrePolis.CinePobrePolis:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall CinePobrePolis.CinePobrePolis:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle CinePobrePolis.CinePobrePolis:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle CinePobrePolis.CinePobrePolis:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent CinePobrePolis.CinePobrePolis:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating CinePobrePolis.CinePobrePolis:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal CinePobrePolis.CinePobrePolis:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated CinePobrePolis.CinePobrePolis:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight CinePobrePolis.CinePobrePolis:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal CinePobrePolis.CinePobrePolis:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary CinePobrePolis.CinePobrePolis:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark CinePobrePolis.CinePobrePolis:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal CinePobrePolis.CinePobrePolis:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground CinePobrePolis.CinePobrePolis:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding CinePobrePolis.CinePobrePolis:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme CinePobrePolis.CinePobrePolis:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal CinePobrePolis.CinePobrePolis:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical CinePobrePolis.CinePobrePolis:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle CinePobrePolis.CinePobrePolis:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight CinePobrePolis.CinePobrePolis:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground CinePobrePolis.CinePobrePolis:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor CinePobrePolis.CinePobrePolis:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle CinePobrePolis.CinePobrePolis:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator CinePobrePolis.CinePobrePolis:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle CinePobrePolis.CinePobrePolis:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator CinePobrePolis.CinePobrePolis:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog CinePobrePolis.CinePobrePolis:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle CinePobrePolis.CinePobrePolis:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle CinePobrePolis.CinePobrePolis:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight CinePobrePolis.CinePobrePolis:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge CinePobrePolis.CinePobrePolis:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall CinePobrePolis.CinePobrePolis:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft CinePobrePolis.CinePobrePolis:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight CinePobrePolis.CinePobrePolis:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground CinePobrePolis.CinePobrePolis:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme CinePobrePolis.CinePobrePolis:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth CinePobrePolis.CinePobrePolis:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle CinePobrePolis.CinePobrePolis:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle CinePobrePolis.CinePobrePolis:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle CinePobrePolis.CinePobrePolis:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle CinePobrePolis.CinePobrePolis:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator CinePobrePolis.CinePobrePolis:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall CinePobrePolis.CinePobrePolis:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle CinePobrePolis.CinePobrePolis:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle CinePobrePolis.CinePobrePolis:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground CinePobrePolis.CinePobrePolis:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless CinePobrePolis.CinePobrePolis:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle CinePobrePolis.CinePobrePolis:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle CinePobrePolis.CinePobrePolis:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle CinePobrePolis.CinePobrePolis:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu CinePobrePolis.CinePobrePolis:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem CinePobrePolis.CinePobrePolis:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary CinePobrePolis.CinePobrePolis:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall CinePobrePolis.CinePobrePolis:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader CinePobrePolis.CinePobrePolis:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle CinePobrePolis.CinePobrePolis:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle CinePobrePolis.CinePobrePolis:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu CinePobrePolis.CinePobrePolis:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem CinePobrePolis.CinePobrePolis:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl CinePobrePolis.CinePobrePolis:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle CinePobrePolis.CinePobrePolis:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle CinePobrePolis.CinePobrePolis:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar CinePobrePolis.CinePobrePolis:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay CinePobrePolis.CinePobrePolis:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay CinePobrePolis.CinePobrePolis:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor CinePobrePolis.CinePobrePolis:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor CinePobrePolis.CinePobrePolis:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor CinePobrePolis.CinePobrePolis:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor CinePobrePolis.CinePobrePolis:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor CinePobrePolis.CinePobrePolis:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor CinePobrePolis.CinePobrePolis:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle CinePobrePolis.CinePobrePolis:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4822,37 +4822,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarDivider
+          @attr name CinePobrePolis.CinePobrePolis:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarItemBackground
+          @attr name CinePobrePolis.CinePobrePolis:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarPopupTheme
+          @attr name CinePobrePolis.CinePobrePolis:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4872,111 +4872,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarSize
+          @attr name CinePobrePolis.CinePobrePolis:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarSplitStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarTabBarStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarTabStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarTabTextStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarTheme
+          @attr name CinePobrePolis.CinePobrePolis:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionBarWidgetTheme
+          @attr name CinePobrePolis.CinePobrePolis:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionDropDownStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionMenuTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4984,181 +4984,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionMenuTextColor
+          @attr name CinePobrePolis.CinePobrePolis:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeBackground
+          @attr name CinePobrePolis.CinePobrePolis:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeCloseButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeCloseDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeCopyDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeCutDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeFindDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModePasteDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModePopupWindowStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeSelectAllDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeShareDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeSplitBackground
+          @attr name CinePobrePolis.CinePobrePolis:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionModeWebSearchDrawable
+          @attr name CinePobrePolis.CinePobrePolis:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionOverflowButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionOverflowMenuStyle
+          @attr name CinePobrePolis.CinePobrePolis:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:activityChooserViewStyle
+          @attr name CinePobrePolis.CinePobrePolis:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:alertDialogButtonGroupStyle
+          @attr name CinePobrePolis.CinePobrePolis:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5168,27 +5168,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:alertDialogCenterButtons
+          @attr name CinePobrePolis.CinePobrePolis:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:alertDialogStyle
+          @attr name CinePobrePolis.CinePobrePolis:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:alertDialogTheme
+          @attr name CinePobrePolis.CinePobrePolis:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5204,117 +5204,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:autoCompleteTextViewStyle
+          @attr name CinePobrePolis.CinePobrePolis:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:borderlessButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonBarButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonBarNegativeButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonBarNeutralButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonBarPositiveButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonBarStyle
+          @attr name CinePobrePolis.CinePobrePolis:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonStyle
+          @attr name CinePobrePolis.CinePobrePolis:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonStyleSmall
+          @attr name CinePobrePolis.CinePobrePolis:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:checkboxStyle
+          @attr name CinePobrePolis.CinePobrePolis:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:checkedTextViewStyle
+          @attr name CinePobrePolis.CinePobrePolis:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5325,11 +5325,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorAccent
+          @attr name CinePobrePolis.CinePobrePolis:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5340,11 +5340,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorBackgroundFloating
+          @attr name CinePobrePolis.CinePobrePolis:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5355,11 +5355,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorButtonNormal
+          @attr name CinePobrePolis.CinePobrePolis:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5370,11 +5370,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorControlActivated
+          @attr name CinePobrePolis.CinePobrePolis:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5385,11 +5385,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorControlHighlight
+          @attr name CinePobrePolis.CinePobrePolis:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5400,11 +5400,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorControlNormal
+          @attr name CinePobrePolis.CinePobrePolis:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5415,11 +5415,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorPrimary
+          @attr name CinePobrePolis.CinePobrePolis:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5430,11 +5430,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorPrimaryDark
+          @attr name CinePobrePolis.CinePobrePolis:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5445,21 +5445,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:colorSwitchThumbNormal
+          @attr name CinePobrePolis.CinePobrePolis:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:controlBackground
+          @attr name CinePobrePolis.CinePobrePolis:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5471,51 +5471,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dialogPreferredPadding
+          @attr name CinePobrePolis.CinePobrePolis:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dialogTheme
+          @attr name CinePobrePolis.CinePobrePolis:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dividerHorizontal
+          @attr name CinePobrePolis.CinePobrePolis:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dividerVertical
+          @attr name CinePobrePolis.CinePobrePolis:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dropDownListViewStyle
+          @attr name CinePobrePolis.CinePobrePolis:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5527,21 +5527,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dropdownListPreferredItemHeight
+          @attr name CinePobrePolis.CinePobrePolis:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:editTextBackground
+          @attr name CinePobrePolis.CinePobrePolis:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5549,81 +5549,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:editTextColor
+          @attr name CinePobrePolis.CinePobrePolis:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:editTextStyle
+          @attr name CinePobrePolis.CinePobrePolis:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:homeAsUpIndicator
+          @attr name CinePobrePolis.CinePobrePolis:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:imageButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listChoiceBackgroundIndicator
+          @attr name CinePobrePolis.CinePobrePolis:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listDividerAlertDialog
+          @attr name CinePobrePolis.CinePobrePolis:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listMenuViewStyle
+          @attr name CinePobrePolis.CinePobrePolis:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listPopupWindowStyle
+          @attr name CinePobrePolis.CinePobrePolis:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5635,11 +5635,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemHeight
+          @attr name CinePobrePolis.CinePobrePolis:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5651,11 +5651,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemHeightLarge
+          @attr name CinePobrePolis.CinePobrePolis:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5667,11 +5667,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemHeightSmall
+          @attr name CinePobrePolis.CinePobrePolis:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5683,11 +5683,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemPaddingLeft
+          @attr name CinePobrePolis.CinePobrePolis:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5699,31 +5699,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:listPreferredItemPaddingRight
+          @attr name CinePobrePolis.CinePobrePolis:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:panelBackground
+          @attr name CinePobrePolis.CinePobrePolis:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:panelMenuListTheme
+          @attr name CinePobrePolis.CinePobrePolis:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5735,221 +5735,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:panelMenuListWidth
+          @attr name CinePobrePolis.CinePobrePolis:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:popupMenuStyle
+          @attr name CinePobrePolis.CinePobrePolis:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:popupWindowStyle
+          @attr name CinePobrePolis.CinePobrePolis:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:radioButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:ratingBarStyle
+          @attr name CinePobrePolis.CinePobrePolis:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:ratingBarStyleIndicator
+          @attr name CinePobrePolis.CinePobrePolis:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:ratingBarStyleSmall
+          @attr name CinePobrePolis.CinePobrePolis:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:searchViewStyle
+          @attr name CinePobrePolis.CinePobrePolis:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:seekBarStyle
+          @attr name CinePobrePolis.CinePobrePolis:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:selectableItemBackground
+          @attr name CinePobrePolis.CinePobrePolis:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:selectableItemBackgroundBorderless
+          @attr name CinePobrePolis.CinePobrePolis:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:spinnerDropDownItemStyle
+          @attr name CinePobrePolis.CinePobrePolis:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:spinnerStyle
+          @attr name CinePobrePolis.CinePobrePolis:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:switchStyle
+          @attr name CinePobrePolis.CinePobrePolis:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceLargePopupMenu
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceListItem
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceListItemSecondary
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceListItemSmall
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearancePopupMenuHeader
+          @attr name CinePobrePolis.CinePobrePolis:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceSearchResultSubtitle
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceSearchResultTitle
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAppearanceSmallPopupMenu
+          @attr name CinePobrePolis.CinePobrePolis:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5957,11 +5957,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textColorAlertDialogListItem
+          @attr name CinePobrePolis.CinePobrePolis:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5969,31 +5969,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textColorSearchUrl
+          @attr name CinePobrePolis.CinePobrePolis:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:toolbarNavigationButtonStyle
+          @attr name CinePobrePolis.CinePobrePolis:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:toolbarStyle
+          @attr name CinePobrePolis.CinePobrePolis:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6003,11 +6003,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowActionBar
+          @attr name CinePobrePolis.CinePobrePolis:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6017,11 +6017,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowActionBarOverlay
+          @attr name CinePobrePolis.CinePobrePolis:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6031,11 +6031,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowActionModeOverlay
+          @attr name CinePobrePolis.CinePobrePolis:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6050,11 +6050,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowFixedHeightMajor
+          @attr name CinePobrePolis.CinePobrePolis:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6069,11 +6069,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowFixedHeightMinor
+          @attr name CinePobrePolis.CinePobrePolis:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6088,11 +6088,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowFixedWidthMajor
+          @attr name CinePobrePolis.CinePobrePolis:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6107,11 +6107,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowFixedWidthMinor
+          @attr name CinePobrePolis.CinePobrePolis:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6126,11 +6126,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowMinWidthMajor
+          @attr name CinePobrePolis.CinePobrePolis:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6145,11 +6145,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowMinWidthMinor
+          @attr name CinePobrePolis.CinePobrePolis:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6159,7 +6159,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:windowNoTitle
+          @attr name CinePobrePolis.CinePobrePolis:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6168,11 +6168,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation Dsw_Cine.droid.Dsw_Cine.droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground Dsw_Cine.droid.Dsw_Cine.droid:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint Dsw_Cine.droid.Dsw_Cine.droid:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor Dsw_Cine.droid.Dsw_Cine.droid:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu Dsw_Cine.droid.Dsw_Cine.droid:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation CinePobrePolis.CinePobrePolis:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground CinePobrePolis.CinePobrePolis:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint CinePobrePolis.CinePobrePolis:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor CinePobrePolis.CinePobrePolis:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu CinePobrePolis.CinePobrePolis:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6185,7 +6185,7 @@ containing a value of this type.
             0x7f010119
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6197,21 +6197,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:elevation
+          @attr name CinePobrePolis.CinePobrePolis:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemBackground
+          @attr name CinePobrePolis.CinePobrePolis:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6222,11 +6222,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemIconTint
+          @attr name CinePobrePolis.CinePobrePolis:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6237,17 +6237,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemTextColor
+          @attr name CinePobrePolis.CinePobrePolis:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#menu}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:menu
+          @attr name CinePobrePolis.CinePobrePolis:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6256,9 +6256,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable Dsw_Cine.droid.Dsw_Cine.droid:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight Dsw_Cine.droid.Dsw_Cine.droid:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed Dsw_Cine.droid.Dsw_Cine.droid:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable CinePobrePolis.CinePobrePolis:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight CinePobrePolis.CinePobrePolis:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed CinePobrePolis.CinePobrePolis:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6268,7 +6268,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f0, 0x7f0100f1, 0x7f0100f2
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6278,11 +6278,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:behavior_hideable
+          @attr name CinePobrePolis.CinePobrePolis:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6302,11 +6302,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:behavior_peekHeight
+          @attr name CinePobrePolis.CinePobrePolis:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6316,7 +6316,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:behavior_skipCollapsed
+          @attr name CinePobrePolis.CinePobrePolis:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6325,7 +6325,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking Dsw_Cine.droid.Dsw_Cine.droid:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking CinePobrePolis.CinePobrePolis:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6333,7 +6333,7 @@ containing a value of this type.
             0x7f0100a4
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6343,7 +6343,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:allowStacking
+          @attr name CinePobrePolis.CinePobrePolis:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CircleImageView.
@@ -6352,10 +6352,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_color Dsw_Cine.droid.Dsw_Cine.droid:civ_border_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_overlay Dsw_Cine.droid.Dsw_Cine.droid:civ_border_overlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_width Dsw_Cine.droid.Dsw_Cine.droid:civ_border_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_fill_color Dsw_Cine.droid.Dsw_Cine.droid:civ_fill_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_color CinePobrePolis.CinePobrePolis:civ_border_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_overlay CinePobrePolis.CinePobrePolis:civ_border_overlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_width CinePobrePolis.CinePobrePolis:civ_border_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_fill_color CinePobrePolis.CinePobrePolis:civ_fill_color}</code></td><td></td></tr>
            </table>
            @see #CircleImageView_civ_border_color
            @see #CircleImageView_civ_border_overlay
@@ -6366,7 +6366,7 @@ containing a value of this type.
             0x7f01013d, 0x7f01013e, 0x7f01013f, 0x7f010140
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#civ_border_color}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#civ_border_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6377,11 +6377,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:civ_border_color
+          @attr name CinePobrePolis.CinePobrePolis:civ_border_color
         */
         public static final int CircleImageView_civ_border_color = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#civ_border_overlay}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#civ_border_overlay}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6391,11 +6391,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:civ_border_overlay
+          @attr name CinePobrePolis.CinePobrePolis:civ_border_overlay
         */
         public static final int CircleImageView_civ_border_overlay = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#civ_border_width}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#civ_border_width}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6407,11 +6407,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:civ_border_width
+          @attr name CinePobrePolis.CinePobrePolis:civ_border_width
         */
         public static final int CircleImageView_civ_border_width = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#civ_fill_color}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#civ_fill_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -6422,7 +6422,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:civ_fill_color
+          @attr name CinePobrePolis.CinePobrePolis:civ_fill_color
         */
         public static final int CircleImageView_civ_fill_color = 3;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6431,22 +6431,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity Dsw_Cine.droid.Dsw_Cine.droid:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim Dsw_Cine.droid.Dsw_Cine.droid:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration Dsw_Cine.droid.Dsw_Cine.droid:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger Dsw_Cine.droid.Dsw_Cine.droid:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim Dsw_Cine.droid.Dsw_Cine.droid:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title Dsw_Cine.droid.Dsw_Cine.droid:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled Dsw_Cine.droid.Dsw_Cine.droid:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId Dsw_Cine.droid.Dsw_Cine.droid:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity CinePobrePolis.CinePobrePolis:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance CinePobrePolis.CinePobrePolis:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim CinePobrePolis.CinePobrePolis:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity CinePobrePolis.CinePobrePolis:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin CinePobrePolis.CinePobrePolis:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom CinePobrePolis.CinePobrePolis:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd CinePobrePolis.CinePobrePolis:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart CinePobrePolis.CinePobrePolis:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop CinePobrePolis.CinePobrePolis:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance CinePobrePolis.CinePobrePolis:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration CinePobrePolis.CinePobrePolis:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger CinePobrePolis.CinePobrePolis:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim CinePobrePolis.CinePobrePolis:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title CinePobrePolis.CinePobrePolis:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled CinePobrePolis.CinePobrePolis:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId CinePobrePolis.CinePobrePolis:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6472,7 +6472,7 @@ containing a value of this type.
             0x7f0100fe, 0x7f0100ff, 0x7f010100, 0x7f010101
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6493,21 +6493,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:collapsedTitleGravity
+          @attr name CinePobrePolis.CinePobrePolis:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:collapsedTitleTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6518,11 +6518,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentScrim
+          @attr name CinePobrePolis.CinePobrePolis:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6543,11 +6543,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleGravity
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6559,11 +6559,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMargin
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6575,11 +6575,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginBottom
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6591,11 +6591,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginEnd
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6607,11 +6607,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginStart
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6623,21 +6623,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleMarginTop
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:expandedTitleTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6647,11 +6647,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:scrimAnimationDuration
+          @attr name CinePobrePolis.CinePobrePolis:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6663,11 +6663,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:scrimVisibleHeightTrigger
+          @attr name CinePobrePolis.CinePobrePolis:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6678,11 +6678,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:statusBarScrim
+          @attr name CinePobrePolis.CinePobrePolis:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#title}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6692,11 +6692,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:title
+          @attr name CinePobrePolis.CinePobrePolis:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6706,17 +6706,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleEnabled
+          @attr name CinePobrePolis.CinePobrePolis:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:toolbarId
+          @attr name CinePobrePolis.CinePobrePolis:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6725,8 +6725,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode Dsw_Cine.droid.Dsw_Cine.droid:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier Dsw_Cine.droid.Dsw_Cine.droid:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode CinePobrePolis.CinePobrePolis:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier CinePobrePolis.CinePobrePolis:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6735,7 +6735,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010102, 0x7f010103
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6749,11 +6749,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_collapseMode
+          @attr name CinePobrePolis.CinePobrePolis:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6763,7 +6763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_collapseParallaxMultiplier
+          @attr name CinePobrePolis.CinePobrePolis:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6772,7 +6772,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha Dsw_Cine.droid.Dsw_Cine.droid:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha CinePobrePolis.CinePobrePolis:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6784,7 +6784,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100a5
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#alpha}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6794,7 +6794,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:alpha
+          @attr name CinePobrePolis.CinePobrePolis:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6816,8 +6816,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint Dsw_Cine.droid.Dsw_Cine.droid:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode Dsw_Cine.droid.Dsw_Cine.droid:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint CinePobrePolis.CinePobrePolis:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode CinePobrePolis.CinePobrePolis:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6833,7 +6833,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6844,11 +6844,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonTint
+          @attr name CinePobrePolis.CinePobrePolis:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6864,7 +6864,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonTintMode
+          @attr name CinePobrePolis.CinePobrePolis:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6873,8 +6873,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines Dsw_Cine.droid.Dsw_Cine.droid:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground Dsw_Cine.droid.Dsw_Cine.droid:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines CinePobrePolis.CinePobrePolis:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground CinePobrePolis.CinePobrePolis:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6883,23 +6883,23 @@ containing a value of this type.
             0x7f010104, 0x7f010105
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#keylines}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:keylines
+          @attr name CinePobrePolis.CinePobrePolis:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:statusBarBackground
+          @attr name CinePobrePolis.CinePobrePolis:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -6909,12 +6909,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor Dsw_Cine.droid.Dsw_Cine.droid:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity Dsw_Cine.droid.Dsw_Cine.droid:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior Dsw_Cine.droid.Dsw_Cine.droid:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges Dsw_Cine.droid.Dsw_Cine.droid:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge Dsw_Cine.droid.Dsw_Cine.droid:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline Dsw_Cine.droid.Dsw_Cine.droid:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor CinePobrePolis.CinePobrePolis:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity CinePobrePolis.CinePobrePolis:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior CinePobrePolis.CinePobrePolis:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges CinePobrePolis.CinePobrePolis:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge CinePobrePolis.CinePobrePolis:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline CinePobrePolis.CinePobrePolis:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -6935,17 +6935,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_anchor
+          @attr name CinePobrePolis.CinePobrePolis:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6970,11 +6970,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_anchorGravity
+          @attr name CinePobrePolis.CinePobrePolis:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6984,11 +6984,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_behavior
+          @attr name CinePobrePolis.CinePobrePolis:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7007,11 +7007,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_dodgeInsetEdges
+          @attr name CinePobrePolis.CinePobrePolis:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7029,11 +7029,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_insetEdge
+          @attr name CinePobrePolis.CinePobrePolis:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7043,7 +7043,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout_keyline
+          @attr name CinePobrePolis.CinePobrePolis:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7052,9 +7052,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme Dsw_Cine.droid.Dsw_Cine.droid:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle Dsw_Cine.droid.Dsw_Cine.droid:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError Dsw_Cine.droid.Dsw_Cine.droid:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme CinePobrePolis.CinePobrePolis:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle CinePobrePolis.CinePobrePolis:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError CinePobrePolis.CinePobrePolis:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7064,27 +7064,27 @@ containing a value of this type.
             0x7f01010c, 0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:bottomSheetDialogTheme
+          @attr name CinePobrePolis.CinePobrePolis:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:bottomSheetStyle
+          @attr name CinePobrePolis.CinePobrePolis:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7095,7 +7095,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textColorError
+          @attr name CinePobrePolis.CinePobrePolis:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7104,14 +7104,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength Dsw_Cine.droid.Dsw_Cine.droid:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength Dsw_Cine.droid.Dsw_Cine.droid:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength Dsw_Cine.droid.Dsw_Cine.droid:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color Dsw_Cine.droid.Dsw_Cine.droid:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize Dsw_Cine.droid.Dsw_Cine.droid:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars Dsw_Cine.droid.Dsw_Cine.droid:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars Dsw_Cine.droid.Dsw_Cine.droid:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness Dsw_Cine.droid.Dsw_Cine.droid:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength CinePobrePolis.CinePobrePolis:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength CinePobrePolis.CinePobrePolis:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength CinePobrePolis.CinePobrePolis:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color CinePobrePolis.CinePobrePolis:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize CinePobrePolis.CinePobrePolis:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars CinePobrePolis.CinePobrePolis:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars CinePobrePolis.CinePobrePolis:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness CinePobrePolis.CinePobrePolis:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7127,7 +7127,7 @@ containing a value of this type.
             0x7f0100ac, 0x7f0100ad, 0x7f0100ae, 0x7f0100af
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7139,11 +7139,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:arrowHeadLength
+          @attr name CinePobrePolis.CinePobrePolis:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7155,11 +7155,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:arrowShaftLength
+          @attr name CinePobrePolis.CinePobrePolis:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#barLength}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7171,11 +7171,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:barLength
+          @attr name CinePobrePolis.CinePobrePolis:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#color}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7186,11 +7186,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:color
+          @attr name CinePobrePolis.CinePobrePolis:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7202,11 +7202,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:drawableSize
+          @attr name CinePobrePolis.CinePobrePolis:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7218,11 +7218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:gapBetweenBars
+          @attr name CinePobrePolis.CinePobrePolis:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7232,11 +7232,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:spinBars
+          @attr name CinePobrePolis.CinePobrePolis:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#thickness}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7248,7 +7248,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:thickness
+          @attr name CinePobrePolis.CinePobrePolis:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7257,14 +7257,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint Dsw_Cine.droid.Dsw_Cine.droid:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode Dsw_Cine.droid.Dsw_Cine.droid:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth Dsw_Cine.droid.Dsw_Cine.droid:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation Dsw_Cine.droid.Dsw_Cine.droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize Dsw_Cine.droid.Dsw_Cine.droid:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ Dsw_Cine.droid.Dsw_Cine.droid:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor Dsw_Cine.droid.Dsw_Cine.droid:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding Dsw_Cine.droid.Dsw_Cine.droid:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint CinePobrePolis.CinePobrePolis:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode CinePobrePolis.CinePobrePolis:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth CinePobrePolis.CinePobrePolis:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation CinePobrePolis.CinePobrePolis:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize CinePobrePolis.CinePobrePolis:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ CinePobrePolis.CinePobrePolis:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor CinePobrePolis.CinePobrePolis:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding CinePobrePolis.CinePobrePolis:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7280,7 +7280,7 @@ containing a value of this type.
             0x7f010110, 0x7f010111, 0x7f010112, 0x7f010113
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7291,11 +7291,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundTint
+          @attr name CinePobrePolis.CinePobrePolis:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7311,11 +7311,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundTintMode
+          @attr name CinePobrePolis.CinePobrePolis:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7327,11 +7327,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:borderWidth
+          @attr name CinePobrePolis.CinePobrePolis:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7343,11 +7343,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:elevation
+          @attr name CinePobrePolis.CinePobrePolis:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7361,11 +7361,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:fabSize
+          @attr name CinePobrePolis.CinePobrePolis:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7377,11 +7377,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:pressedTranslationZ
+          @attr name CinePobrePolis.CinePobrePolis:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7392,11 +7392,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:rippleColor
+          @attr name CinePobrePolis.CinePobrePolis:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7406,7 +7406,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:useCompatPadding
+          @attr name CinePobrePolis.CinePobrePolis:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7415,7 +7415,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide Dsw_Cine.droid.Dsw_Cine.droid:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide CinePobrePolis.CinePobrePolis:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7423,7 +7423,7 @@ containing a value of this type.
             0x7f010114
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7433,7 +7433,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:behavior_autoHide
+          @attr name CinePobrePolis.CinePobrePolis:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7444,7 +7444,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding Dsw_Cine.droid.Dsw_Cine.droid:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding CinePobrePolis.CinePobrePolis:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7466,7 +7466,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7476,7 +7476,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:foregroundInsidePadding
+          @attr name CinePobrePolis.CinePobrePolis:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7490,10 +7490,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider Dsw_Cine.droid.Dsw_Cine.droid:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding Dsw_Cine.droid.Dsw_Cine.droid:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild Dsw_Cine.droid.Dsw_Cine.droid:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers Dsw_Cine.droid.Dsw_Cine.droid:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider CinePobrePolis.CinePobrePolis:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding CinePobrePolis.CinePobrePolis:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild CinePobrePolis.CinePobrePolis:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers CinePobrePolis.CinePobrePolis:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7541,17 +7541,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#divider}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:divider
+          @attr name CinePobrePolis.CinePobrePolis:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7563,11 +7563,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:dividerPadding
+          @attr name CinePobrePolis.CinePobrePolis:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7577,11 +7577,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:measureWithLargestChild
+          @attr name CinePobrePolis.CinePobrePolis:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7596,7 +7596,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:showDividers
+          @attr name CinePobrePolis.CinePobrePolis:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7735,9 +7735,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout Dsw_Cine.droid.Dsw_Cine.droid:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass Dsw_Cine.droid.Dsw_Cine.droid:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass Dsw_Cine.droid.Dsw_Cine.droid:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout CinePobrePolis.CinePobrePolis:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass CinePobrePolis.CinePobrePolis:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass CinePobrePolis.CinePobrePolis:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7751,7 +7751,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction Dsw_Cine.droid.Dsw_Cine.droid:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction CinePobrePolis.CinePobrePolis:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7779,17 +7779,17 @@ containing a value of this type.
             0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionLayout
+          @attr name CinePobrePolis.CinePobrePolis:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7799,11 +7799,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionProviderClass
+          @attr name CinePobrePolis.CinePobrePolis:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7813,7 +7813,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:actionViewClass
+          @attr name CinePobrePolis.CinePobrePolis:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7895,7 +7895,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7911,7 +7911,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:showAsAction
+          @attr name CinePobrePolis.CinePobrePolis:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -7927,8 +7927,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing Dsw_Cine.droid.Dsw_Cine.droid:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow Dsw_Cine.droid.Dsw_Cine.droid:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing CinePobrePolis.CinePobrePolis:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow CinePobrePolis.CinePobrePolis:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7988,7 +7988,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7998,17 +7998,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:preserveIconSpacing
+          @attr name CinePobrePolis.CinePobrePolis:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subMenuArrow
+          @attr name CinePobrePolis.CinePobrePolis:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8020,13 +8020,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation Dsw_Cine.droid.Dsw_Cine.droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout Dsw_Cine.droid.Dsw_Cine.droid:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground Dsw_Cine.droid.Dsw_Cine.droid:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint Dsw_Cine.droid.Dsw_Cine.droid:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor Dsw_Cine.droid.Dsw_Cine.droid:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu Dsw_Cine.droid.Dsw_Cine.droid:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation CinePobrePolis.CinePobrePolis:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout CinePobrePolis.CinePobrePolis:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground CinePobrePolis.CinePobrePolis:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint CinePobrePolis.CinePobrePolis:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance CinePobrePolis.CinePobrePolis:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor CinePobrePolis.CinePobrePolis:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu CinePobrePolis.CinePobrePolis:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8063,7 +8063,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8075,31 +8075,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:elevation
+          @attr name CinePobrePolis.CinePobrePolis:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:headerLayout
+          @attr name CinePobrePolis.CinePobrePolis:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemBackground
+          @attr name CinePobrePolis.CinePobrePolis:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8110,21 +8110,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemIconTint
+          @attr name CinePobrePolis.CinePobrePolis:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8135,17 +8135,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:itemTextColor
+          @attr name CinePobrePolis.CinePobrePolis:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#menu}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:menu
+          @attr name CinePobrePolis.CinePobrePolis:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8156,7 +8156,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor Dsw_Cine.droid.Dsw_Cine.droid:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor CinePobrePolis.CinePobrePolis:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8178,7 +8178,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8188,7 +8188,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:overlapAnchor
+          @attr name CinePobrePolis.CinePobrePolis:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8197,7 +8197,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor Dsw_Cine.droid.Dsw_Cine.droid:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor CinePobrePolis.CinePobrePolis:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8205,7 +8205,7 @@ containing a value of this type.
             0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8215,7 +8215,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:state_above_anchor
+          @attr name CinePobrePolis.CinePobrePolis:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8224,8 +8224,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons Dsw_Cine.droid.Dsw_Cine.droid:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle Dsw_Cine.droid.Dsw_Cine.droid:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons CinePobrePolis.CinePobrePolis:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle CinePobrePolis.CinePobrePolis:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8234,7 +8234,7 @@ containing a value of this type.
             0x7f0100bb, 0x7f0100bc
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8246,11 +8246,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:paddingBottomNoButtons
+          @attr name CinePobrePolis.CinePobrePolis:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8262,7 +8262,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:paddingTopNoTitle
+          @attr name CinePobrePolis.CinePobrePolis:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8273,10 +8273,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager Dsw_Cine.droid.Dsw_Cine.droid:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout Dsw_Cine.droid.Dsw_Cine.droid:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount Dsw_Cine.droid.Dsw_Cine.droid:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd Dsw_Cine.droid.Dsw_Cine.droid:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager CinePobrePolis.CinePobrePolis:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout CinePobrePolis.CinePobrePolis:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount CinePobrePolis.CinePobrePolis:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd CinePobrePolis.CinePobrePolis:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8302,7 +8302,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8312,11 +8312,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layoutManager
+          @attr name CinePobrePolis.CinePobrePolis:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8326,11 +8326,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:reverseLayout
+          @attr name CinePobrePolis.CinePobrePolis:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8340,11 +8340,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:spanCount
+          @attr name CinePobrePolis.CinePobrePolis:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8354,7 +8354,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:stackFromEnd
+          @attr name CinePobrePolis.CinePobrePolis:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8363,7 +8363,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground Dsw_Cine.droid.Dsw_Cine.droid:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground CinePobrePolis.CinePobrePolis:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8371,7 +8371,7 @@ containing a value of this type.
             0x7f01011c
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8379,7 +8379,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:insetForeground
+          @attr name CinePobrePolis.CinePobrePolis:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8388,7 +8388,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop Dsw_Cine.droid.Dsw_Cine.droid:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop CinePobrePolis.CinePobrePolis:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8396,7 +8396,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8408,7 +8408,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:behavior_overlapTop
+          @attr name CinePobrePolis.CinePobrePolis:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8421,19 +8421,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon Dsw_Cine.droid.Dsw_Cine.droid:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon Dsw_Cine.droid.Dsw_Cine.droid:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint Dsw_Cine.droid.Dsw_Cine.droid:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon Dsw_Cine.droid.Dsw_Cine.droid:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault Dsw_Cine.droid.Dsw_Cine.droid:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout Dsw_Cine.droid.Dsw_Cine.droid:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground Dsw_Cine.droid.Dsw_Cine.droid:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint Dsw_Cine.droid.Dsw_Cine.droid:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon Dsw_Cine.droid.Dsw_Cine.droid:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon Dsw_Cine.droid.Dsw_Cine.droid:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground Dsw_Cine.droid.Dsw_Cine.droid:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout Dsw_Cine.droid.Dsw_Cine.droid:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon Dsw_Cine.droid.Dsw_Cine.droid:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon CinePobrePolis.CinePobrePolis:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon CinePobrePolis.CinePobrePolis:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint CinePobrePolis.CinePobrePolis:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon CinePobrePolis.CinePobrePolis:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault CinePobrePolis.CinePobrePolis:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout CinePobrePolis.CinePobrePolis:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground CinePobrePolis.CinePobrePolis:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint CinePobrePolis.CinePobrePolis:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon CinePobrePolis.CinePobrePolis:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon CinePobrePolis.CinePobrePolis:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground CinePobrePolis.CinePobrePolis:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout CinePobrePolis.CinePobrePolis:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon CinePobrePolis.CinePobrePolis:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8485,27 +8485,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:closeIcon
+          @attr name CinePobrePolis.CinePobrePolis:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:commitIcon
+          @attr name CinePobrePolis.CinePobrePolis:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8515,21 +8515,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:defaultQueryHint
+          @attr name CinePobrePolis.CinePobrePolis:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:goIcon
+          @attr name CinePobrePolis.CinePobrePolis:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8539,31 +8539,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:iconifiedByDefault
+          @attr name CinePobrePolis.CinePobrePolis:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#layout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:layout
+          @attr name CinePobrePolis.CinePobrePolis:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:queryBackground
+          @attr name CinePobrePolis.CinePobrePolis:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8573,57 +8573,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:queryHint
+          @attr name CinePobrePolis.CinePobrePolis:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:searchHintIcon
+          @attr name CinePobrePolis.CinePobrePolis:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:searchIcon
+          @attr name CinePobrePolis.CinePobrePolis:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:submitBackground
+          @attr name CinePobrePolis.CinePobrePolis:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:suggestionRowLayout
+          @attr name CinePobrePolis.CinePobrePolis:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:voiceIcon
+          @attr name CinePobrePolis.CinePobrePolis:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8633,8 +8633,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation Dsw_Cine.droid.Dsw_Cine.droid:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth Dsw_Cine.droid.Dsw_Cine.droid:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation CinePobrePolis.CinePobrePolis:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth CinePobrePolis.CinePobrePolis:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8650,7 +8650,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8662,11 +8662,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:elevation
+          @attr name CinePobrePolis.CinePobrePolis:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8678,7 +8678,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:maxActionInlineWidth
+          @attr name CinePobrePolis.CinePobrePolis:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8691,7 +8691,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme Dsw_Cine.droid.Dsw_Cine.droid:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme CinePobrePolis.CinePobrePolis:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8728,13 +8728,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:popupTheme
+          @attr name CinePobrePolis.CinePobrePolis:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8746,17 +8746,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText Dsw_Cine.droid.Dsw_Cine.droid:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack Dsw_Cine.droid.Dsw_Cine.droid:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth Dsw_Cine.droid.Dsw_Cine.droid:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding Dsw_Cine.droid.Dsw_Cine.droid:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding Dsw_Cine.droid.Dsw_Cine.droid:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint Dsw_Cine.droid.Dsw_Cine.droid:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode Dsw_Cine.droid.Dsw_Cine.droid:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track Dsw_Cine.droid.Dsw_Cine.droid:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint Dsw_Cine.droid.Dsw_Cine.droid:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode Dsw_Cine.droid.Dsw_Cine.droid:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText CinePobrePolis.CinePobrePolis:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack CinePobrePolis.CinePobrePolis:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth CinePobrePolis.CinePobrePolis:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding CinePobrePolis.CinePobrePolis:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance CinePobrePolis.CinePobrePolis:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding CinePobrePolis.CinePobrePolis:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint CinePobrePolis.CinePobrePolis:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode CinePobrePolis.CinePobrePolis:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track CinePobrePolis.CinePobrePolis:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint CinePobrePolis.CinePobrePolis:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode CinePobrePolis.CinePobrePolis:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8798,7 +8798,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#showText}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8808,11 +8808,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:showText
+          @attr name CinePobrePolis.CinePobrePolis:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8822,11 +8822,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:splitTrack
+          @attr name CinePobrePolis.CinePobrePolis:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8838,11 +8838,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:switchMinWidth
+          @attr name CinePobrePolis.CinePobrePolis:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8854,21 +8854,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:switchPadding
+          @attr name CinePobrePolis.CinePobrePolis:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:switchTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8880,11 +8880,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:thumbTextPadding
+          @attr name CinePobrePolis.CinePobrePolis:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8895,11 +8895,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:thumbTint
+          @attr name CinePobrePolis.CinePobrePolis:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8916,21 +8916,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:thumbTintMode
+          @attr name CinePobrePolis.CinePobrePolis:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#track}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:track
+          @attr name CinePobrePolis.CinePobrePolis:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8941,11 +8941,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:trackTint
+          @attr name CinePobrePolis.CinePobrePolis:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8962,7 +8962,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:trackTintMode
+          @attr name CinePobrePolis.CinePobrePolis:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9006,22 +9006,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground Dsw_Cine.droid.Dsw_Cine.droid:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart Dsw_Cine.droid.Dsw_Cine.droid:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity Dsw_Cine.droid.Dsw_Cine.droid:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor Dsw_Cine.droid.Dsw_Cine.droid:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight Dsw_Cine.droid.Dsw_Cine.droid:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth Dsw_Cine.droid.Dsw_Cine.droid:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth Dsw_Cine.droid.Dsw_Cine.droid:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode Dsw_Cine.droid.Dsw_Cine.droid:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding Dsw_Cine.droid.Dsw_Cine.droid:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor Dsw_Cine.droid.Dsw_Cine.droid:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor Dsw_Cine.droid.Dsw_Cine.droid:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground CinePobrePolis.CinePobrePolis:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart CinePobrePolis.CinePobrePolis:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity CinePobrePolis.CinePobrePolis:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor CinePobrePolis.CinePobrePolis:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight CinePobrePolis.CinePobrePolis:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth CinePobrePolis.CinePobrePolis:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth CinePobrePolis.CinePobrePolis:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode CinePobrePolis.CinePobrePolis:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding CinePobrePolis.CinePobrePolis:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom CinePobrePolis.CinePobrePolis:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd CinePobrePolis.CinePobrePolis:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart CinePobrePolis.CinePobrePolis:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop CinePobrePolis.CinePobrePolis:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor CinePobrePolis.CinePobrePolis:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance CinePobrePolis.CinePobrePolis:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor CinePobrePolis.CinePobrePolis:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9047,17 +9047,17 @@ containing a value of this type.
             0x7f01012b, 0x7f01012c, 0x7f01012d, 0x7f01012e
         };
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabBackground
+          @attr name CinePobrePolis.CinePobrePolis:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9069,11 +9069,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabContentStart
+          @attr name CinePobrePolis.CinePobrePolis:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9086,11 +9086,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabGravity
+          @attr name CinePobrePolis.CinePobrePolis:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9101,11 +9101,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabIndicatorColor
+          @attr name CinePobrePolis.CinePobrePolis:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9117,11 +9117,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabIndicatorHeight
+          @attr name CinePobrePolis.CinePobrePolis:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9133,11 +9133,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabMaxWidth
+          @attr name CinePobrePolis.CinePobrePolis:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9149,11 +9149,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabMinWidth
+          @attr name CinePobrePolis.CinePobrePolis:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9166,11 +9166,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabMode
+          @attr name CinePobrePolis.CinePobrePolis:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9182,11 +9182,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabPadding
+          @attr name CinePobrePolis.CinePobrePolis:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9198,11 +9198,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingBottom
+          @attr name CinePobrePolis.CinePobrePolis:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9214,11 +9214,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingEnd
+          @attr name CinePobrePolis.CinePobrePolis:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9230,11 +9230,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingStart
+          @attr name CinePobrePolis.CinePobrePolis:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9246,11 +9246,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabPaddingTop
+          @attr name CinePobrePolis.CinePobrePolis:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9261,21 +9261,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabSelectedTextColor
+          @attr name CinePobrePolis.CinePobrePolis:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9286,7 +9286,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:tabTextColor
+          @attr name CinePobrePolis.CinePobrePolis:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9304,7 +9304,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps Dsw_Cine.droid.Dsw_Cine.droid:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps CinePobrePolis.CinePobrePolis:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9377,14 +9377,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:textAllCaps
+          @attr name CinePobrePolis.CinePobrePolis:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9395,20 +9395,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled Dsw_Cine.droid.Dsw_Cine.droid:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength Dsw_Cine.droid.Dsw_Cine.droid:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled Dsw_Cine.droid.Dsw_Cine.droid:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled Dsw_Cine.droid.Dsw_Cine.droid:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled Dsw_Cine.droid.Dsw_Cine.droid:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled CinePobrePolis.CinePobrePolis:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength CinePobrePolis.CinePobrePolis:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance CinePobrePolis.CinePobrePolis:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance CinePobrePolis.CinePobrePolis:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled CinePobrePolis.CinePobrePolis:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance CinePobrePolis.CinePobrePolis:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled CinePobrePolis.CinePobrePolis:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled CinePobrePolis.CinePobrePolis:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance CinePobrePolis.CinePobrePolis:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription CinePobrePolis.CinePobrePolis:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable CinePobrePolis.CinePobrePolis:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled CinePobrePolis.CinePobrePolis:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint CinePobrePolis.CinePobrePolis:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode CinePobrePolis.CinePobrePolis:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9446,7 +9446,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9456,11 +9456,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:counterEnabled
+          @attr name CinePobrePolis.CinePobrePolis:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9470,31 +9470,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:counterMaxLength
+          @attr name CinePobrePolis.CinePobrePolis:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:counterOverflowTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:counterTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9504,21 +9504,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:errorEnabled
+          @attr name CinePobrePolis.CinePobrePolis:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:errorTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9528,11 +9528,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:hintAnimationEnabled
+          @attr name CinePobrePolis.CinePobrePolis:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9542,21 +9542,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:hintEnabled
+          @attr name CinePobrePolis.CinePobrePolis:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:hintTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9566,21 +9566,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleContentDescription
+          @attr name CinePobrePolis.CinePobrePolis:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleDrawable
+          @attr name CinePobrePolis.CinePobrePolis:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9590,11 +9590,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleEnabled
+          @attr name CinePobrePolis.CinePobrePolis:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9605,11 +9605,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleTint
+          @attr name CinePobrePolis.CinePobrePolis:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9625,7 +9625,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:passwordToggleTintMode
+          @attr name CinePobrePolis.CinePobrePolis:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -9636,33 +9636,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity Dsw_Cine.droid.Dsw_Cine.droid:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription Dsw_Cine.droid.Dsw_Cine.droid:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon Dsw_Cine.droid.Dsw_Cine.droid:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft Dsw_Cine.droid.Dsw_Cine.droid:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight Dsw_Cine.droid.Dsw_Cine.droid:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo Dsw_Cine.droid.Dsw_Cine.droid:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription Dsw_Cine.droid.Dsw_Cine.droid:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight Dsw_Cine.droid.Dsw_Cine.droid:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription Dsw_Cine.droid.Dsw_Cine.droid:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon Dsw_Cine.droid.Dsw_Cine.droid:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme Dsw_Cine.droid.Dsw_Cine.droid:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle Dsw_Cine.droid.Dsw_Cine.droid:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title Dsw_Cine.droid.Dsw_Cine.droid:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin Dsw_Cine.droid.Dsw_Cine.droid:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom Dsw_Cine.droid.Dsw_Cine.droid:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd Dsw_Cine.droid.Dsw_Cine.droid:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart Dsw_Cine.droid.Dsw_Cine.droid:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop Dsw_Cine.droid.Dsw_Cine.droid:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins Dsw_Cine.droid.Dsw_Cine.droid:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance Dsw_Cine.droid.Dsw_Cine.droid:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor Dsw_Cine.droid.Dsw_Cine.droid:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity CinePobrePolis.CinePobrePolis:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription CinePobrePolis.CinePobrePolis:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon CinePobrePolis.CinePobrePolis:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd CinePobrePolis.CinePobrePolis:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions CinePobrePolis.CinePobrePolis:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft CinePobrePolis.CinePobrePolis:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight CinePobrePolis.CinePobrePolis:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart CinePobrePolis.CinePobrePolis:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation CinePobrePolis.CinePobrePolis:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo CinePobrePolis.CinePobrePolis:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription CinePobrePolis.CinePobrePolis:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight CinePobrePolis.CinePobrePolis:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription CinePobrePolis.CinePobrePolis:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon CinePobrePolis.CinePobrePolis:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme CinePobrePolis.CinePobrePolis:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle CinePobrePolis.CinePobrePolis:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance CinePobrePolis.CinePobrePolis:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor CinePobrePolis.CinePobrePolis:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title CinePobrePolis.CinePobrePolis:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin CinePobrePolis.CinePobrePolis:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom CinePobrePolis.CinePobrePolis:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd CinePobrePolis.CinePobrePolis:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart CinePobrePolis.CinePobrePolis:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop CinePobrePolis.CinePobrePolis:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins CinePobrePolis.CinePobrePolis:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance CinePobrePolis.CinePobrePolis:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor CinePobrePolis.CinePobrePolis:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9717,7 +9717,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9730,11 +9730,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:buttonGravity
+          @attr name CinePobrePolis.CinePobrePolis:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9744,21 +9744,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:collapseContentDescription
+          @attr name CinePobrePolis.CinePobrePolis:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:collapseIcon
+          @attr name CinePobrePolis.CinePobrePolis:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9770,11 +9770,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEnd
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9786,11 +9786,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetEndWithActions
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9802,11 +9802,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetLeft
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9818,11 +9818,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetRight
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9834,11 +9834,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStart
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9850,21 +9850,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:contentInsetStartWithNavigation
+          @attr name CinePobrePolis.CinePobrePolis:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#logo}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:logo
+          @attr name CinePobrePolis.CinePobrePolis:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9874,11 +9874,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:logoDescription
+          @attr name CinePobrePolis.CinePobrePolis:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9890,11 +9890,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:maxButtonHeight
+          @attr name CinePobrePolis.CinePobrePolis:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9904,31 +9904,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:navigationContentDescription
+          @attr name CinePobrePolis.CinePobrePolis:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:navigationIcon
+          @attr name CinePobrePolis.CinePobrePolis:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:popupTheme
+          @attr name CinePobrePolis.CinePobrePolis:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9938,21 +9938,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subtitle
+          @attr name CinePobrePolis.CinePobrePolis:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9963,11 +9963,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:subtitleTextColor
+          @attr name CinePobrePolis.CinePobrePolis:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#title}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9977,11 +9977,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:title
+          @attr name CinePobrePolis.CinePobrePolis:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9993,11 +9993,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleMargin
+          @attr name CinePobrePolis.CinePobrePolis:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10009,11 +10009,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleMarginBottom
+          @attr name CinePobrePolis.CinePobrePolis:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10025,11 +10025,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleMarginEnd
+          @attr name CinePobrePolis.CinePobrePolis:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10041,11 +10041,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleMarginStart
+          @attr name CinePobrePolis.CinePobrePolis:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10057,11 +10057,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleMarginTop
+          @attr name CinePobrePolis.CinePobrePolis:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10073,21 +10073,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleMargins
+          @attr name CinePobrePolis.CinePobrePolis:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleTextAppearance
+          @attr name CinePobrePolis.CinePobrePolis:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10098,7 +10098,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:titleTextColor
+          @attr name CinePobrePolis.CinePobrePolis:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10109,9 +10109,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd Dsw_Cine.droid.Dsw_Cine.droid:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart Dsw_Cine.droid.Dsw_Cine.droid:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme Dsw_Cine.droid.Dsw_Cine.droid:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd CinePobrePolis.CinePobrePolis:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart CinePobrePolis.CinePobrePolis:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme CinePobrePolis.CinePobrePolis:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10136,7 +10136,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10148,11 +10148,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:paddingEnd
+          @attr name CinePobrePolis.CinePobrePolis:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10164,17 +10164,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:paddingStart
+          @attr name CinePobrePolis.CinePobrePolis:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#theme}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:theme
+          @attr name CinePobrePolis.CinePobrePolis:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10184,8 +10184,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint Dsw_Cine.droid.Dsw_Cine.droid:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode Dsw_Cine.droid.Dsw_Cine.droid:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint CinePobrePolis.CinePobrePolis:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode CinePobrePolis.CinePobrePolis:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10201,7 +10201,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10212,11 +10212,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundTint
+          @attr name CinePobrePolis.CinePobrePolis:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link Dsw_Cine.droid.Dsw_Cine.droid.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link CinePobrePolis.CinePobrePolis.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10232,7 +10232,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Dsw_Cine.droid.Dsw_Cine.droid:backgroundTintMode
+          @attr name CinePobrePolis.CinePobrePolis:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

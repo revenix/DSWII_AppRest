@@ -2,6 +2,5 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Release\Dsw_Cin
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Release\Dsw_Cine.portable.pdb
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Release\Newtonsoft.Json.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Release\Newtonsoft.Json.xml
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\obj\Release\Dsw_Cine.portable.csprojResolveAssemblyReference.cache
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\obj\Release\Dsw_Cine.portable.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\obj\Release\Dsw_Cine.portable.pdb
