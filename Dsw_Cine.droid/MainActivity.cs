@@ -117,7 +117,7 @@ namespace Dsw_Cine.droid
             TabAdapter adapter = new TabAdapter(SupportFragmentManager);
             adapter.AddFragment(new Fragment1(), "Registro Cliente");
             adapter.AddFragment(new Fragment2(), "Actualizar Cliente");
-            adapter.AddFragment(new Fragment3(), "Consultar Reserva");
+            adapter.AddFragment(new Fragment4(), "Consultar Reserva");
 
             viewPager.Adapter = adapter;
         }

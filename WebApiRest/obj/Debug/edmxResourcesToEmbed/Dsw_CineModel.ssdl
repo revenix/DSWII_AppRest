@@ -6,11 +6,9 @@
     </Key>
     <Property Name="dni" Type="char" MaxLength="8" Nullable="false" />
     <Property Name="nom_cliente" Type="varchar" MaxLength="50" />
-    <Property Name="ape_cliente" Type="varchar" MaxLength="50" />
     <Property Name="correo_cliente" Type="varchar" MaxLength="100" />
-    <Property Name="clave_cliente" Type="varchar" MaxLength="20" />
-    <Property Name="telefono" Type="varchar" MaxLength="9" />
-    <Property Name="dir_cliente" Type="varchar" MaxLength="100" />
+    <Property Name="telefono_fijo" Type="varchar" MaxLength="7" />
+    <Property Name="telefono_celular" Type="varchar" MaxLength="9" />
   </EntityType>
   <EntityType Name="tb_funciones">
     <Key>
@@ -118,11 +116,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
   <Function Name="sp_actualizarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="dni" Type="char" Mode="In" />
     <Parameter Name="nom" Type="varchar" Mode="In" />
-    <Parameter Name="ape" Type="varchar" Mode="In" />
     <Parameter Name="correo" Type="varchar" Mode="In" />
-    <Parameter Name="clave" Type="varchar" Mode="In" />
-    <Parameter Name="telf" Type="char" Mode="In" />
-    <Parameter Name="dir" Type="varchar" Mode="In" />
+    <Parameter Name="telf_f" Type="char" Mode="In" />
+    <Parameter Name="telf_c" Type="char" Mode="In" />
   </Function>
   <Function Name="sp_buscarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="dni" Type="int" Mode="In" />
@@ -133,11 +129,9 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
   <Function Name="sp_registrarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="dni" Type="char" Mode="In" />
     <Parameter Name="nom" Type="varchar" Mode="In" />
-    <Parameter Name="ape" Type="varchar" Mode="In" />
     <Parameter Name="correo" Type="varchar" Mode="In" />
-    <Parameter Name="clave" Type="varchar" Mode="In" />
-    <Parameter Name="telf" Type="char" Mode="In" />
-    <Parameter Name="dir" Type="varchar" Mode="In" />
+    <Parameter Name="telf_f" Type="char" Mode="In" />
+    <Parameter Name="telf_c" Type="char" Mode="In" />
   </Function>
   <EntityContainer Name="dsw_cineModelStoreContainer">
     <EntitySet Name="tb_clientes" EntityType="Self.tb_clientes" Schema="dbo" store:Type="Tables" />

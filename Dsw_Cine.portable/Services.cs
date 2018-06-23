@@ -17,15 +17,16 @@ namespace Dsw_Cine.portable
         // List<Usuario> listUsuarios = new List<Usuario>();
         private const string url = "http://webapirestcine.azurewebsites.net/api/";
 
-        public async Task<string> RegistraCliente(int _dni, string _nom, string _correo, int _telef,int _telec)
+        public async Task<string> RegistraCliente(int _dni, string _nom, string _correo, int _telff, int _telfc)
         {
 
              
-            var reg = $"registrocliente?dni={_dni}&nom={_nom}&correo={_correo}&telf_f={_telef}&telf_c={_telec}";
+            var reg = $"registrocliente?dni={_dni}&nom={_nom}&correo={_correo}&telf_f={_telff}&telf_c={_telfc}";
 
             var uri = url + reg;
              var http = new HttpClient();
-            var response = await http.PutAsync(uri, null);
+            //antes era putasync
+            var response = await http.PostAsync(uri, null);
             if (response.IsSuccessStatusCode)
             {
                 var content = await response.Content.ReadAsStringAsync();
@@ -35,6 +36,7 @@ namespace Dsw_Cine.portable
             {
                 throw new Exception(response.ReasonPhrase);
             }
+
         }
 
         public async Task<string> ActualizaCliente(int _dni, string _nom, string _correo, int _telef, int _telec)

@@ -6,11 +6,9 @@
         <MappingFragment StoreEntitySet="tb_clientes">
           <ScalarProperty Name="dni" ColumnName="dni" />
           <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
-          <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
           <ScalarProperty Name="correo_cliente" ColumnName="correo_cliente" />
-          <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
-          <ScalarProperty Name="telefono" ColumnName="telefono" />
-          <ScalarProperty Name="dir_cliente" ColumnName="dir_cliente" />
+          <ScalarProperty Name="telefono_fijo" ColumnName="telefono_fijo" />
+          <ScalarProperty Name="telefono_celular" ColumnName="telefono_celular" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -71,11 +69,9 @@
         <ComplexTypeMapping TypeName="dsw_cineModel.sp_buscarCliente_Result">
           <ScalarProperty Name="dni" ColumnName="dni" />
           <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
-          <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
           <ScalarProperty Name="correo_cliente" ColumnName="correo_cliente" />
-          <ScalarProperty Name="clave_cliente" ColumnName="clave_cliente" />
-          <ScalarProperty Name="telefono" ColumnName="telefono" />
-          <ScalarProperty Name="dir_cliente" ColumnName="dir_cliente" />
+          <ScalarProperty Name="telefono_fijo" ColumnName="telefono_fijo" />
+          <ScalarProperty Name="telefono_celular" ColumnName="telefono_celular" />
         </ComplexTypeMapping>
       </ResultMapping>
     </FunctionImportMapping>
@@ -90,7 +86,6 @@
           <ScalarProperty Name="fin" ColumnName="fin" />
           <ScalarProperty Name="dni" ColumnName="dni" />
           <ScalarProperty Name="nom_cliente" ColumnName="nom_cliente" />
-          <ScalarProperty Name="ape_cliente" ColumnName="ape_cliente" />
         </ComplexTypeMapping>
       </ResultMapping>
     </FunctionImportMapping>

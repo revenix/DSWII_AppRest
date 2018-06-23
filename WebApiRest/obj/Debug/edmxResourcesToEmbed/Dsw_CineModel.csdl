@@ -6,11 +6,9 @@
     </Key>
     <Property Name="dni" Type="String" MaxLength="8" FixedLength="true" Unicode="false" Nullable="false" />
     <Property Name="nom_cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="ape_cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="correo_cliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
-    <Property Name="clave_cliente" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
-    <Property Name="telefono" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
-    <Property Name="dir_cliente" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="telefono_fijo" Type="String" MaxLength="7" FixedLength="false" Unicode="false" />
+    <Property Name="telefono_celular" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
     <NavigationProperty Name="tb_reservas" Relationship="Self.FK__tb_reservas__dni__5165187F" FromRole="tb_clientes" ToRole="tb_reservas" />
   </EntityType>
   <EntityType Name="tb_funciones">
@@ -145,11 +143,9 @@
     <FunctionImport Name="sp_actualizarCliente">
       <Parameter Name="dni" Mode="In" Type="String" />
       <Parameter Name="nom" Mode="In" Type="String" />
-      <Parameter Name="ape" Mode="In" Type="String" />
       <Parameter Name="correo" Mode="In" Type="String" />
-      <Parameter Name="clave" Mode="In" Type="String" />
-      <Parameter Name="telf" Mode="In" Type="String" />
-      <Parameter Name="dir" Mode="In" Type="String" />
+      <Parameter Name="telf_f" Mode="In" Type="String" />
+      <Parameter Name="telf_c" Mode="In" Type="String" />
     </FunctionImport>
     <FunctionImport Name="sp_buscarCliente" ReturnType="Collection(dsw_cineModel.sp_buscarCliente_Result)">
       <Parameter Name="dni" Mode="In" Type="Int32" />
@@ -160,21 +156,17 @@
     <FunctionImport Name="sp_registrarCliente">
       <Parameter Name="dni" Mode="In" Type="String" />
       <Parameter Name="nom" Mode="In" Type="String" />
-      <Parameter Name="ape" Mode="In" Type="String" />
       <Parameter Name="correo" Mode="In" Type="String" />
-      <Parameter Name="clave" Mode="In" Type="String" />
-      <Parameter Name="telf" Mode="In" Type="String" />
-      <Parameter Name="dir" Mode="In" Type="String" />
+      <Parameter Name="telf_f" Mode="In" Type="String" />
+      <Parameter Name="telf_c" Mode="In" Type="String" />
     </FunctionImport>
   </EntityContainer>
   <ComplexType Name="sp_buscarCliente_Result">
     <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
     <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
-    <Property Type="String" Name="ape_cliente" Nullable="true" MaxLength="50" />
     <Property Type="String" Name="correo_cliente" Nullable="true" MaxLength="100" />
-    <Property Type="String" Name="clave_cliente" Nullable="true" MaxLength="20" />
-    <Property Type="String" Name="telefono" Nullable="true" MaxLength="9" />
-    <Property Type="String" Name="dir_cliente" Nullable="true" MaxLength="100" />
+    <Property Type="String" Name="telefono_fijo" Nullable="true" MaxLength="7" />
+    <Property Type="String" Name="telefono_celular" Nullable="true" MaxLength="9" />
   </ComplexType>
   <ComplexType Name="sp_consultarReserva_Result">
     <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
@@ -185,6 +177,5 @@
     <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
     <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
     <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
-    <Property Type="String" Name="ape_cliente" Nullable="true" MaxLength="50" />
   </ComplexType>
 </Schema>

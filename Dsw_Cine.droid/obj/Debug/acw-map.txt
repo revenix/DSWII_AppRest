@@ -18,6 +18,10 @@ Dsw_Cine.droid.Fragments.Fragment3, Dsw_Cine.droid;md5cd469e33860d677b2b3de86f4e
 Dsw_Cine.droid.Fragments.Fragment3, Dsw_Cine.droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd469e33860d677b2b3de86f4e1176a6.Fragment3
 Dsw_Cine.droid.Fragments.Fragment3;md5cd469e33860d677b2b3de86f4e1176a6.Fragment3
 dsw_cine.droid.fragments.Fragment3;md5cd469e33860d677b2b3de86f4e1176a6.Fragment3
+Dsw_Cine.droid.Fragments.Fragment4, Dsw_Cine.droid;md5cd469e33860d677b2b3de86f4e1176a6.Fragment4
+Dsw_Cine.droid.Fragments.Fragment4, Dsw_Cine.droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd469e33860d677b2b3de86f4e1176a6.Fragment4
+Dsw_Cine.droid.Fragments.Fragment4;md5cd469e33860d677b2b3de86f4e1176a6.Fragment4
+dsw_cine.droid.fragments.Fragment4;md5cd469e33860d677b2b3de86f4e1176a6.Fragment4
 Refractored.Controls.CircleImageView, Refractored.Controls.CircleImageView;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView
 Refractored.Controls.CircleImageView, Refractored.Controls.CircleImageView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView
 Refractored.Controls.CircleImageView;md5eae3ad6ed1b7f6713979aa7524906105.CircleImageView

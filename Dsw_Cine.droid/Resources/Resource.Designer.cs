@@ -2322,7 +2322,7 @@ namespace Dsw_Cine.droid
 			public const int btnConsultarReserva = 2131165327;
 			
 			// aapt resource value: 0x7f070086
-			public const int btnRegistrar = 2131165318;
+			public const int btnRegistrarReg = 2131165318;
 			
 			// aapt resource value: 0x7f070088
 			public const int btnValidarDNI = 2131165320;
@@ -2717,17 +2717,17 @@ namespace Dsw_Cine.droid
 			// aapt resource value: 0x7f07000b
 			public const int transition_scene_layoutid_cache = 2131165195;
 			
-			// aapt resource value: 0x7f070081
-			public const int txtDni = 2131165313;
-			
 			// aapt resource value: 0x7f070095
 			public const int txtDniCliente = 2131165333;
 			
 			// aapt resource value: 0x7f070087
 			public const int txtDniValido = 2131165319;
 			
+			// aapt resource value: 0x7f070081
+			public const int txtDnireg = 2131165313;
+			
 			// aapt resource value: 0x7f070083
-			public const int txtEmail = 2131165315;
+			public const int txtEmailreg = 2131165315;
 			
 			// aapt resource value: 0x7f07008a
 			public const int txtEmailval = 2131165322;
@@ -2741,11 +2741,11 @@ namespace Dsw_Cine.droid
 			// aapt resource value: 0x7f070091
 			public const int txtLocal = 2131165329;
 			
-			// aapt resource value: 0x7f070082
-			public const int txtNombre = 2131165314;
-			
 			// aapt resource value: 0x7f070096
 			public const int txtNombreCliente = 2131165334;
+			
+			// aapt resource value: 0x7f070082
+			public const int txtNombrereg = 2131165314;
 			
 			// aapt resource value: 0x7f070089
 			public const int txtNombreval = 2131165321;
@@ -2760,13 +2760,13 @@ namespace Dsw_Cine.droid
 			public const int txtSala = 2131165330;
 			
 			// aapt resource value: 0x7f070085
-			public const int txtTelefonoCelular = 2131165317;
+			public const int txtTelefonoCelularreg = 2131165317;
 			
 			// aapt resource value: 0x7f07008c
 			public const int txtTelefonoCelularval = 2131165324;
 			
 			// aapt resource value: 0x7f070084
-			public const int txtTelefonoFijo = 2131165316;
+			public const int txtTelefonoFijoreg = 2131165316;
 			
 			// aapt resource value: 0x7f07008b
 			public const int txtTelefonoFijoval = 2131165323;

@@ -18,17 +18,17 @@ namespace WebApiRest.Controllers
 
         [HttpPost]
         [Route("registrocliente")]
-        public string PostRegistroCliente(string dni, string  nom, string correo, string telf_f , string telf_c)
+        public IHttpActionResult PostRegistroCliente(string dni, string  nom, string correo, string telf_f , string telf_c)
         { 
             try
             {
                 var query = db.sp_registrarCliente(dni,nom,correo,telf_f, telf_c);
 
-                return query.ToString();
+                return Ok("Registrado Correctamente");
             }
             catch (Exception ex)
             {
-                return BadRequest().ToString();
+                return BadRequest();
             }
         }
 

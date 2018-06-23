@@ -86,12 +86,13 @@ namespace Dsw_Cine.droid.Fragments
                 {
                     progress.Dismiss();
                     Toast.MakeText(this.Context, "Actualizado Correctamente", ToastLength.Short).Show();
-
+                    LimpiarCasillas();
                 }
                 else
                 {
                     progress.Dismiss();
                     Toast.MakeText(this.Context, "Error al Actualizar", ToastLength.Short).Show();
+                    LimpiarCasillas();
                 }
             }
             else
@@ -125,12 +126,13 @@ namespace Dsw_Cine.droid.Fragments
                     txtTele_F.Text = dato.telefono_f;
                     txtTele_C.Text = dato.telefono_c;
                     progress.Dismiss();
-
+                   
                 }
                 else
                 {
                     progress.Dismiss();
                     Toast.MakeText(this.Context, "Cliente no encontrado", ToastLength.Long).Show();
+                    LimpiarCasillas();
                 }
 
             }
@@ -138,6 +140,7 @@ namespace Dsw_Cine.droid.Fragments
             {
                 progress.Dismiss();
                 Toast.MakeText(this.Context, "Campo vacio", ToastLength.Long).Show();
+                
 
             }
                 
@@ -147,7 +150,14 @@ namespace Dsw_Cine.droid.Fragments
         }
 
 
-
+        void LimpiarCasillas()
+        {
+            txtdni.Text = "";
+            txtnombre.Text = "";
+            txtEmail.Text = "";
+            txtTele_F.Text = "";
+            txtTele_C.Text = ""; 
+        }
 
     }
 }
