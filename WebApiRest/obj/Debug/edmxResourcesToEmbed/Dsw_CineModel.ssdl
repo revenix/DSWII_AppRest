@@ -126,12 +126,23 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
   <Function Name="sp_consultarReserva" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="nro" Type="int" Mode="In" />
   </Function>
+  <Function Name="sp_ListaFunciones" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="fecha" Type="date" Mode="In" />
+    <Parameter Name="local" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_listaLocales" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_ListarFechas" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_listarPeliculas" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
   <Function Name="sp_registrarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="dni" Type="char" Mode="In" />
     <Parameter Name="nom" Type="varchar" Mode="In" />
     <Parameter Name="correo" Type="varchar" Mode="In" />
     <Parameter Name="telf_f" Type="char" Mode="In" />
     <Parameter Name="telf_c" Type="char" Mode="In" />
+  </Function>
+  <Function Name="sp_Reservar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Funcion" Type="int" Mode="In" />
+    <Parameter Name="Dni" Type="char" Mode="In" />
   </Function>
   <EntityContainer Name="dsw_cineModelStoreContainer">
     <EntitySet Name="tb_clientes" EntityType="Self.tb_clientes" Schema="dbo" store:Type="Tables" />

@@ -101,5 +101,46 @@ namespace WebApiRest
     
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_registrarCliente", dniParameter, nomParameter, correoParameter, telf_fParameter, telf_cParameter);
         }
+    
+        public virtual ObjectResult<sp_listarPeliculas_Result> sp_listarPeliculas()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_listarPeliculas_Result>("sp_listarPeliculas");
+        }
+    
+        public virtual ObjectResult<sp_ListaFunciones_Result> sp_ListaFunciones(Nullable<System.DateTime> fecha, string local)
+        {
+            var fechaParameter = fecha.HasValue ?
+                new ObjectParameter("fecha", fecha) :
+                new ObjectParameter("fecha", typeof(System.DateTime));
+    
+            var localParameter = local != null ?
+                new ObjectParameter("local", local) :
+                new ObjectParameter("local", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_ListaFunciones_Result>("sp_ListaFunciones", fechaParameter, localParameter);
+        }
+    
+        public virtual ObjectResult<sp_listaLocales_Result> sp_listaLocales()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_listaLocales_Result>("sp_listaLocales");
+        }
+    
+        public virtual ObjectResult<Nullable<System.DateTime>> sp_ListarFechas()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Nullable<System.DateTime>>("sp_ListarFechas");
+        }
+    
+        public virtual int sp_Reservar(Nullable<int> funcion, string dni)
+        {
+            var funcionParameter = funcion.HasValue ?
+                new ObjectParameter("Funcion", funcion) :
+                new ObjectParameter("Funcion", typeof(int));
+    
+            var dniParameter = dni != null ?
+                new ObjectParameter("Dni", dni) :
+                new ObjectParameter("Dni", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_Reservar", funcionParameter, dniParameter);
+        }
     }
 }

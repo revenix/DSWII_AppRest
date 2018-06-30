@@ -90,5 +90,33 @@
       </ResultMapping>
     </FunctionImportMapping>
     <FunctionImportMapping FunctionImportName="sp_registrarCliente" FunctionName="dsw_cineModel.Store.sp_registrarCliente" />
+    <FunctionImportMapping FunctionImportName="sp_listarPeliculas" FunctionName="dsw_cineModel.Store.sp_listarPeliculas">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dsw_cineModel.sp_listarPeliculas_Result">
+          <ScalarProperty Name="id_pelicula" ColumnName="id_pelicula" />
+          <ScalarProperty Name="nom_pelicula" ColumnName="nom_pelicula" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_ListaFunciones" FunctionName="dsw_cineModel.Store.sp_ListaFunciones">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dsw_cineModel.sp_ListaFunciones_Result">
+          <ScalarProperty Name="nom_pelicula" ColumnName="nom_pelicula" />
+          <ScalarProperty Name="num_sala" ColumnName="num_sala" />
+          <ScalarProperty Name="inicio" ColumnName="inicio" />
+          <ScalarProperty Name="fin" ColumnName="fin" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_listaLocales" FunctionName="dsw_cineModel.Store.sp_listaLocales">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dsw_cineModel.sp_listaLocales_Result">
+          <ScalarProperty Name="id_local" ColumnName="id_local" />
+          <ScalarProperty Name="nom_local" ColumnName="nom_local" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_ListarFechas" FunctionName="dsw_cineModel.Store.sp_ListarFechas" />
+    <FunctionImportMapping FunctionImportName="sp_Reservar" FunctionName="dsw_cineModel.Store.sp_Reservar" />
   </EntityContainerMapping>
 </Mapping>

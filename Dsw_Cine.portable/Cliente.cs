@@ -13,4 +13,16 @@ namespace Dsw_Cine.portable
 
 
     }
+
+
+
+    public class peliculas
+    {
+
+        public int Id { get; set; }
+
+        public string Nombre { get; set; }
+
+    }
 }
+

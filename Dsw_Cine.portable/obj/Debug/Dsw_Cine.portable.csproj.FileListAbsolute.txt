@@ -1,6 +1,0 @@
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Debug\Dsw_Cine.portable.dll
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Debug\Dsw_Cine.portable.pdb
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Debug\Newtonsoft.Json.dll
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\bin\Debug\Newtonsoft.Json.xml
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\obj\Debug\Dsw_Cine.portable.dll
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\Dsw_Cine.portable\obj\Debug\Dsw_Cine.portable.pdb

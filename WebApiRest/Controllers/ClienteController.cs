@@ -49,7 +49,31 @@ namespace WebApiRest.Controllers
           }
 
 
-           
+
+        [HttpGet]
+        [Route("listadopeliculas")]
+        public IHttpActionResult GetPeliculas()
+        {
+            try
+            {
+                var query = from s in db.sp_listarPeliculas()
+                            
+                            select new Peliculas()
+                            {
+                                Id = s.id_pelicula,
+                                Nombre   = s.nom_pelicula
+                            };
+
+                return Ok(query.ToList());
+               
+
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+
+        }
 
 
     }

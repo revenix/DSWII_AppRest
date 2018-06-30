@@ -160,6 +160,17 @@
       <Parameter Name="telf_f" Mode="In" Type="String" />
       <Parameter Name="telf_c" Mode="In" Type="String" />
     </FunctionImport>
+    <FunctionImport Name="sp_listarPeliculas" ReturnType="Collection(dsw_cineModel.sp_listarPeliculas_Result)" />
+    <FunctionImport Name="sp_ListaFunciones" ReturnType="Collection(dsw_cineModel.sp_ListaFunciones_Result)">
+      <Parameter Name="fecha" Mode="In" Type="DateTime" />
+      <Parameter Name="local" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_listaLocales" ReturnType="Collection(dsw_cineModel.sp_listaLocales_Result)" />
+    <FunctionImport Name="sp_ListarFechas" ReturnType="Collection(DateTime)" />
+    <FunctionImport Name="sp_Reservar">
+      <Parameter Name="Funcion" Mode="In" Type="Int32" />
+      <Parameter Name="Dni" Mode="In" Type="String" />
+    </FunctionImport>
   </EntityContainer>
   <ComplexType Name="sp_buscarCliente_Result">
     <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
@@ -177,5 +188,19 @@
     <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
     <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
     <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="sp_listarPeliculas_Result">
+    <Property Type="Int32" Name="id_pelicula" Nullable="false" />
+    <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
+  </ComplexType>
+  <ComplexType Name="sp_ListaFunciones_Result">
+    <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
+    <Property Type="Int32" Name="num_sala" Nullable="true" />
+    <Property Type="String" Name="inicio" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
+  </ComplexType>
+  <ComplexType Name="sp_listaLocales_Result">
+    <Property Type="Int32" Name="id_local" Nullable="false" />
+    <Property Type="String" Name="nom_local" Nullable="true" MaxLength="50" />
   </ComplexType>
 </Schema>

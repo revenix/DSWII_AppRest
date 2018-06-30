@@ -169,6 +169,5 @@ C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\bin\es\System.Web.Razor.re
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\bin\es\System.Web.WebPages.resources.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\obj\Debug\WebApiRest.csprojResolveAssemblyReference.cache
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\obj\Debug\WebApiRest.dll
 C:\Users\MOISES\Desktop\DSWII_AppRest_v2.0\WebApiRest\obj\Debug\WebApiRest.pdb

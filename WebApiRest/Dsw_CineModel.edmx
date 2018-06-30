@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="dsw_cineModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="dsw_cineModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="tb_clientes">
           <Key>
             <PropertyRef Name="dni" />
@@ -131,12 +131,23 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
         <Function Name="sp_consultarReserva" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
           <Parameter Name="nro" Type="int" Mode="In" />
         </Function>
+        <Function Name="sp_ListaFunciones" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="fecha" Type="date" Mode="In" />
+          <Parameter Name="local" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="sp_listaLocales" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="sp_ListarFechas" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="sp_listarPeliculas" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
         <Function Name="sp_registrarCliente" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
           <Parameter Name="dni" Type="char" Mode="In" />
           <Parameter Name="nom" Type="varchar" Mode="In" />
           <Parameter Name="correo" Type="varchar" Mode="In" />
           <Parameter Name="telf_f" Type="char" Mode="In" />
           <Parameter Name="telf_c" Type="char" Mode="In" />
+        </Function>
+        <Function Name="sp_Reservar" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Funcion" Type="int" Mode="In" />
+          <Parameter Name="Dni" Type="char" Mode="In" />
         </Function>
         <EntityContainer Name="dsw_cineModelStoreContainer">
           <EntitySet Name="tb_clientes" EntityType="Self.tb_clientes" Schema="dbo" store:Type="Tables" />
@@ -177,8 +188,7 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
             <End Role="tb_reservas" EntitySet="tb_reservas" />
           </AssociationSet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="dsw_cineModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -330,10 +340,10 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
             <Parameter Name="telf_c" Mode="In" Type="String" />
           </FunctionImport>
           <FunctionImport Name="sp_buscarCliente" ReturnType="Collection(dsw_cineModel.sp_buscarCliente_Result)">
-            <Parameter Name="dni" Mode="In" Type="Int32" />
+          <Parameter Name="dni" Mode="In" Type="Int32" />
           </FunctionImport>
           <FunctionImport Name="sp_consultarReserva" ReturnType="Collection(dsw_cineModel.sp_consultarReserva_Result)">
-            <Parameter Name="nro" Mode="In" Type="Int32" />
+          <Parameter Name="nro" Mode="In" Type="Int32" />
           </FunctionImport>
           <FunctionImport Name="sp_registrarCliente">
             <Parameter Name="dni" Mode="In" Type="String" />
@@ -341,6 +351,17 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
             <Parameter Name="correo" Mode="In" Type="String" />
             <Parameter Name="telf_f" Mode="In" Type="String" />
             <Parameter Name="telf_c" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="sp_listarPeliculas" ReturnType="Collection(dsw_cineModel.sp_listarPeliculas_Result)" />
+          <FunctionImport Name="sp_ListaFunciones" ReturnType="Collection(dsw_cineModel.sp_ListaFunciones_Result)">
+            <Parameter Name="fecha" Mode="In" Type="DateTime" />
+            <Parameter Name="local" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="sp_listaLocales" ReturnType="Collection(dsw_cineModel.sp_listaLocales_Result)" />
+          <FunctionImport Name="sp_ListarFechas" ReturnType="Collection(DateTime)" />
+          <FunctionImport Name="sp_Reservar">
+            <Parameter Name="Funcion" Mode="In" Type="Int32" />
+            <Parameter Name="Dni" Mode="In" Type="String" />
           </FunctionImport>
         </EntityContainer>
         <ComplexType Name="sp_buscarCliente_Result">
@@ -359,6 +380,20 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
           <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
           <Property Type="String" Name="dni" Nullable="false" MaxLength="8" />
           <Property Type="String" Name="nom_cliente" Nullable="true" MaxLength="50" />
+        </ComplexType>
+        <ComplexType Name="sp_listarPeliculas_Result">
+          <Property Type="Int32" Name="id_pelicula" Nullable="false" />
+          <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
+        </ComplexType>
+        <ComplexType Name="sp_ListaFunciones_Result">
+          <Property Type="String" Name="nom_pelicula" Nullable="true" MaxLength="50" />
+          <Property Type="Int32" Name="num_sala" Nullable="true" />
+          <Property Type="String" Name="inicio" Nullable="true" MaxLength="10" />
+          <Property Type="String" Name="fin" Nullable="true" MaxLength="10" />
+        </ComplexType>
+        <ComplexType Name="sp_listaLocales_Result">
+          <Property Type="Int32" Name="id_local" Nullable="false" />
+          <Property Type="String" Name="nom_local" Nullable="true" MaxLength="50" />
         </ComplexType>
       </Schema>
     </edmx:ConceptualModels>
@@ -455,6 +490,34 @@ advertencia 6002: La tabla o vista 'dsw_cine.sys.database_firewall_rules' no tie
             </ResultMapping>
           </FunctionImportMapping>
           <FunctionImportMapping FunctionImportName="sp_registrarCliente" FunctionName="dsw_cineModel.Store.sp_registrarCliente" />
+          <FunctionImportMapping FunctionImportName="sp_listarPeliculas" FunctionName="dsw_cineModel.Store.sp_listarPeliculas">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="dsw_cineModel.sp_listarPeliculas_Result">
+                <ScalarProperty Name="id_pelicula" ColumnName="id_pelicula" />
+                <ScalarProperty Name="nom_pelicula" ColumnName="nom_pelicula" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="sp_ListaFunciones" FunctionName="dsw_cineModel.Store.sp_ListaFunciones">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="dsw_cineModel.sp_ListaFunciones_Result">
+                <ScalarProperty Name="nom_pelicula" ColumnName="nom_pelicula" />
+                <ScalarProperty Name="num_sala" ColumnName="num_sala" />
+                <ScalarProperty Name="inicio" ColumnName="inicio" />
+                <ScalarProperty Name="fin" ColumnName="fin" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="sp_listaLocales" FunctionName="dsw_cineModel.Store.sp_listaLocales">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="dsw_cineModel.sp_listaLocales_Result">
+                <ScalarProperty Name="id_local" ColumnName="id_local" />
+                <ScalarProperty Name="nom_local" ColumnName="nom_local" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="sp_ListarFechas" FunctionName="dsw_cineModel.Store.sp_ListarFechas" />
+          <FunctionImportMapping FunctionImportName="sp_Reservar" FunctionName="dsw_cineModel.Store.sp_Reservar" />
         </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>

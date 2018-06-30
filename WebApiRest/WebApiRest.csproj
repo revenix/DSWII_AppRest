@@ -217,6 +217,15 @@
     <Compile Include="sp_consultarReserva_Result.cs">
       <DependentUpon>Dsw_CineModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="sp_ListaFunciones_Result.cs">
+      <DependentUpon>Dsw_CineModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sp_listaLocales_Result.cs">
+      <DependentUpon>Dsw_CineModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sp_listarPeliculas_Result.cs">
+      <DependentUpon>Dsw_CineModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="tb_clientes.cs">
       <DependentUpon>Dsw_CineModel.tt</DependentUpon>
     </Compile>

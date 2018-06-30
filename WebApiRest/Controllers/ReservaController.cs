@@ -76,5 +76,102 @@ namespace WebApiRest.Controllers
 
         }
 
+
+
+        [HttpPost]
+        [Route("registroreserva")]
+        public IHttpActionResult PostRegistroReseva(int funcion,string dni)
+        {
+            try
+            {
+                var query = db.sp_Reservar(funcion,dni);
+
+                return Ok("Registrado Correctamente");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest();
+            }
+        }
+
+
+        [HttpGet]
+        [Route("listarfechas")]
+        public IHttpActionResult GetFechas()
+        {
+            try
+            {
+                var query = from s in db.sp_ListarFechas()
+
+                            select new fecha()
+                            {
+                                Fecha = s.Value.ToShortDateString()
+                            };
+
+                return Ok(query.ToList());
+
+
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+
+        }
+
+        [HttpGet]
+        [Route("listarfunciones")]
+        public IHttpActionResult GetFunciones(DateTime fecha , string local)
+        {
+            try
+            {
+                var query = from s in db.sp_ListaFunciones(fecha, local)
+
+                            select new funcion()
+                            {
+                                nom_pelicula = s.nom_pelicula,
+                                num_sala = int.Parse(s.num_sala+""),
+                               inicio = s.inicio,
+                                fin =s.fin   
+                            
+                            };
+
+                return Ok(query.ToList());
+
+
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+
+        }
+
+
+        [HttpGet]
+        [Route("listarlocales")]
+        public IHttpActionResult GetLocales()
+        {
+            try
+            {
+                var query = from s in db.sp_listaLocales()
+
+                            select new local()
+                            {
+                                id_local = s.id_local,
+                                nombre_local = s.nom_local
+                            };
+
+                return Ok(query.ToList());
+
+
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+
+        }
+
     }
 }
