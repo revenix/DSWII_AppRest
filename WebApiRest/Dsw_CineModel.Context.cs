@@ -77,6 +77,55 @@ namespace WebApiRest
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_consultarReserva_Result>("sp_consultarReserva", nroParameter);
         }
     
+        public virtual ObjectResult<sp_ListaFunciones_Result> sp_ListaFunciones(Nullable<System.DateTime> fecha, string local)
+        {
+            var fechaParameter = fecha.HasValue ?
+                new ObjectParameter("fecha", fecha) :
+                new ObjectParameter("fecha", typeof(System.DateTime));
+    
+            var localParameter = local != null ?
+                new ObjectParameter("local", local) :
+                new ObjectParameter("local", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_ListaFunciones_Result>("sp_ListaFunciones", fechaParameter, localParameter);
+        }
+    
+        public virtual ObjectResult<sp_listaLocales_Result> sp_listaLocales()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_listaLocales_Result>("sp_listaLocales");
+        }
+    
+        public virtual ObjectResult<Nullable<System.DateTime>> sp_ListarFechas()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Nullable<System.DateTime>>("sp_ListarFechas");
+        }
+    
+        public virtual ObjectResult<sp_listarPeliculas_Result> sp_listarPeliculas()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_listarPeliculas_Result>("sp_listarPeliculas");
+        }
+    
+        public virtual int sp_registrar(Nullable<int> num_mesa, string nombre, string direccion, Nullable<int> cantidad)
+        {
+            var num_mesaParameter = num_mesa.HasValue ?
+                new ObjectParameter("num_mesa", num_mesa) :
+                new ObjectParameter("num_mesa", typeof(int));
+    
+            var nombreParameter = nombre != null ?
+                new ObjectParameter("nombre", nombre) :
+                new ObjectParameter("nombre", typeof(string));
+    
+            var direccionParameter = direccion != null ?
+                new ObjectParameter("direccion", direccion) :
+                new ObjectParameter("direccion", typeof(string));
+    
+            var cantidadParameter = cantidad.HasValue ?
+                new ObjectParameter("cantidad", cantidad) :
+                new ObjectParameter("cantidad", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_registrar", num_mesaParameter, nombreParameter, direccionParameter, cantidadParameter);
+        }
+    
         public virtual int sp_registrarCliente(string dni, string nom, string correo, string telf_f, string telf_c)
         {
             var dniParameter = dni != null ?
@@ -102,35 +151,7 @@ namespace WebApiRest
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_registrarCliente", dniParameter, nomParameter, correoParameter, telf_fParameter, telf_cParameter);
         }
     
-        public virtual ObjectResult<sp_listarPeliculas_Result> sp_listarPeliculas()
-        {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_listarPeliculas_Result>("sp_listarPeliculas");
-        }
-    
-        public virtual ObjectResult<sp_ListaFunciones_Result> sp_ListaFunciones(Nullable<System.DateTime> fecha, string local)
-        {
-            var fechaParameter = fecha.HasValue ?
-                new ObjectParameter("fecha", fecha) :
-                new ObjectParameter("fecha", typeof(System.DateTime));
-    
-            var localParameter = local != null ?
-                new ObjectParameter("local", local) :
-                new ObjectParameter("local", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_ListaFunciones_Result>("sp_ListaFunciones", fechaParameter, localParameter);
-        }
-    
-        public virtual ObjectResult<sp_listaLocales_Result> sp_listaLocales()
-        {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_listaLocales_Result>("sp_listaLocales");
-        }
-    
-        public virtual ObjectResult<Nullable<System.DateTime>> sp_ListarFechas()
-        {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Nullable<System.DateTime>>("sp_ListarFechas");
-        }
-    
-        public virtual int sp_Reservar(Nullable<int> funcion, string dni)
+        public virtual ObjectResult<Nullable<decimal>> sp_Reservar(Nullable<int> funcion, string dni)
         {
             var funcionParameter = funcion.HasValue ?
                 new ObjectParameter("Funcion", funcion) :
@@ -140,7 +161,7 @@ namespace WebApiRest
                 new ObjectParameter("Dni", dni) :
                 new ObjectParameter("Dni", typeof(string));
     
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_Reservar", funcionParameter, dniParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<Nullable<decimal>>("sp_Reservar", funcionParameter, dniParameter);
         }
     }
 }

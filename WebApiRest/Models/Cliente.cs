@@ -37,8 +37,10 @@ public class fecha
 
 public class funcion
 {
+    public int id_funcion { get; set; }
     public string nom_pelicula { get; set; }
     public int num_sala { get; set; }
+    public string fecha { get; set; }
     public string inicio { get; set; }
     public string fin { get; set; }
 }

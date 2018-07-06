@@ -19,8 +19,6 @@ namespace Dsw_Cine.portable
 
         public async Task<string> RegistraCliente(int _dni, string _nom, string _correo, int _telff, int _telfc)
         {
-
-             
             var reg = $"registrocliente?dni={_dni}&nom={_nom}&correo={_correo}&telf_f={_telff}&telf_c={_telfc}";
 
             var uri = url + reg;
@@ -83,6 +81,18 @@ namespace Dsw_Cine.portable
 
         }
 
+
+        public async Task<List<local>> ListaLocales()
+        {
+            var local = $"listarlocales";
+
+            var uri = url + local;
+            var respuestaService = await http.GetAsync(uri);
+            var contenido = respuestaService.Content.ReadAsStringAsync().Result.ToString();
+            var locales = JsonConvert.DeserializeObject<List<local>>(contenido);
+            return locales;
+
+        }
 
     }
 }

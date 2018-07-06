@@ -13,8 +13,10 @@ namespace WebApiRest
     
     public partial class sp_ListaFunciones_Result
     {
+        public int id_funcion { get; set; }
         public string nom_pelicula { get; set; }
         public Nullable<int> num_sala { get; set; }
+        public Nullable<System.DateTime> um_fecha { get; set; }
         public string inicio { get; set; }
         public string fin { get; set; }
     }

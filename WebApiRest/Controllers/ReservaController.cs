@@ -24,6 +24,7 @@ namespace WebApiRest.Controllers
 
                             select new Reserva()
                             {
+                                
                                  nombre_peli = s.nom_pelicula,
                                  nombre_local = s.nom_local,
                                  num_sala = int.Parse(s.num_sala+""),
@@ -86,7 +87,7 @@ namespace WebApiRest.Controllers
             {
                 var query = db.sp_Reservar(funcion,dni);
 
-                return Ok("Registrado Correctamente");
+                return Ok(query);
             }
             catch (Exception ex)
             {
@@ -121,16 +122,19 @@ namespace WebApiRest.Controllers
 
         [HttpGet]
         [Route("listarfunciones")]
-        public IHttpActionResult GetFunciones(DateTime fecha , string local)
+        public IHttpActionResult GetFunciones(string fecha , string local)
         {
             try
             {
-                var query = from s in db.sp_ListaFunciones(fecha, local)
+                var query = from s in db.sp_ListaFunciones(DateTime.Parse(fecha), local)
 
                             select new funcion()
                             {
+                               
+                                id_funcion = s.id_funcion, 
                                 nom_pelicula = s.nom_pelicula,
                                 num_sala = int.Parse(s.num_sala+""),
+                                fecha = s.um_fecha+"",
                                inicio = s.inicio,
                                 fin =s.fin   
                             
